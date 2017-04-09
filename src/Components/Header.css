@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+}
+
+.imgbdla {
+  height: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px;
+}
+
+nav {
+  position: static;
+  z-index: 100;
+}

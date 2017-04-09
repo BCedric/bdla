@@ -1,0 +1,50 @@
+.content > div {
+
+  margin : auto;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+div {
+  background-color: rgba(255, 0, 0, 0);
+}
+
+.content {
+  width: 60%;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+  background-color: white;
+  padding: 20px;
+}
+
+.react-parallax {
+  min-height: 75vh;
+}
+
+.react-parallax-bgimage {
+  top: -600px;
+}
+
+div h1 {
+  text-align: center;
+}
