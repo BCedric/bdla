@@ -20,16 +20,16 @@ export default function Accueil () {
       <Helmet title='Accueil' />
       <h1>Bienvenue !</h1>
       <p>
-        Biard dans les Airs est un festival ou l'on croise la musique, la danse,
+        Biard dans les Airs est un festival ou l on croise la musique, la danse,
         le théâtre, la poésie, le cirque...
       </p>
       <p>
-        Il est ouvert à toute la famille dans un site aménagé spécialement pour l'occasion.
+        Il est ouvert à toute la famille dans un site aménagé spécialement pour l occasion.
         Vous pourrez passer deux jours à vous remplir les yeux et les oreilles de mille et
         une façons !
       </p>
       <div className='container'>
-        <Slider interval='1'>
+        <Slider interval={1}>
           <Slide
             src={image}
             placement='left'
