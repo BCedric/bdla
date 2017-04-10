@@ -21,7 +21,8 @@
     "eject": "react-scripts eject",
     "pretest": "standard",
     "start": "react-scripts start",
-    "test": "react-scripts test --env=jsdom"
+    "test": "react-scripts test --env=jsdom",
+    "web": "npm run build && npm run start"
   },
   "homepage": ".",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
