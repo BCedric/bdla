@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import { Navbar, NavItem } from 'react-materialize'
 
-import './style/Header.css'
+import '../style/Header.css'
 const imgbdla = require('./../img/bandeau.png')
 
 class Header extends Component {

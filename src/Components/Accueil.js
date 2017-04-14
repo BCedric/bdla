@@ -1,7 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { Slider, Slide } from 'react-materialize'
-import './style/Accueil.css'
+import '../style/Accueil.css'
 const image = require('./../img/accueil1.jpg')
 const image1 = require('./../img/accueil2.jpg')
 // const image2 = require('./../img/accueil3.jpg')

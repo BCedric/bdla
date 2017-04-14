@@ -17,7 +17,7 @@ import Helmet from 'react-helmet'
 import NoMatchRoute from './Components/NoMatchRoute.js'
 import { Parallax } from 'react-parallax'
 
-import './App.css'
+import './style/App.css'
 const image = require('./img/bdla2016.jpg')
 
 class App extends Component {

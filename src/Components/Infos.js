@@ -1,6 +1,5 @@
 import Helmet from 'react-helmet'
 import React from 'react'
-import MediaBox from 'react-materialize'
 
 const plan1 = require('./../img/plan1.png')
 const PlanSite = require('./../img/PlanSite.png')
