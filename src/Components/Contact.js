@@ -17,7 +17,7 @@ export default function Contact () {
         Merci à
       </p>
       <p>
-        Quentin, Stu, Benjamin,  Noj, la M3Q, la Blaiserie, Cap Sud, Rinocéros, Hélène, La commune de Biard, ses employés des services techniques, Grand Poitiers et tous les bénévoles….
+        Lison, Stu, Benjamin,  Noj, la M3Q, la Blaiserie, Cap Sud, Hélène, La commune de Biard, ses employés des services techniques, Grand Poitiers et tous les bénévoles….
       </p>
     </div>
   )

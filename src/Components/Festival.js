@@ -14,7 +14,7 @@ export default function Festival () {
       <h1>Le Festival</h1>
       <p>Le Festival est organisé par <i>Le Comité des fêtes</i> et les <i>Ateliers Musicaux de Biard</i> et vit par la force d'un bon paquet de bénévoles.</p>
       <div className='container'>
-        <Slider interval='1'>
+        <Slider interval={3000}>
           <Slide
             src={image}
             placement='left'

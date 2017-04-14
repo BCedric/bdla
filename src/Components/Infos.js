@@ -39,7 +39,7 @@ export default function Infos () {
         Pendant tout le festival : grillades/frites, glace, crêpe<br /></a>
       </p>
       <p>
-      <a>Et en plus : <br />
+        <a>Et en plus : <br />
       Vendredi soir : Plat maison<br />
       Samedi soir : Repas maison ( entrées, plat, dessert )<br /></a>
       </p>
@@ -47,11 +47,11 @@ export default function Infos () {
       <h2>Venir au festival</h2>
       <p>Le festival a lieu devant la Mairie de Biard.</p>
       <p>
-        <a target='_blank' rel='external'><img alt='' src={plan1} /></a>
-        <a target='_blank' rel='external'><img alt='' src={PlanSite} /></a>
+        <a target='_blank' rel='external'><img alt='Plan Poitiers' src={plan1} /></a>
+      <a target='_blank' rel='external'><img alt='Plan site' src={PlanSite} /></a>
       </p>
       <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume d'Aquitaine, rue des écoles, lotissements allentours. <br /><br />
-      <b>Bus :</b> Ligne <a href='http://www.vitalis-poitiers.fr' target='_blank' rel='external'></a>Vitalis n°14 - Direction 'La Chaume' - Arrêt Tamaris. Rejoindre Biard en traversant la rocade et marcher tout droit sur quelques centaines de mètres. Vous êtes arrivé-e !<br /><br />
+      <b>Bus :</b> Ligne <a href='http://www.vitalis-poitiers.fr' target='_blank' rel='external' />Vitalis n°14 - Direction 'La Chaume' - Arrêt Tamaris. Rejoindre Biard en traversant la rocade et marcher tout droit sur quelques centaines de mètres. Vous êtes arrivé-e !<br /><br />
     </div>
   )
 }

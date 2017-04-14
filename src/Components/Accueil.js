@@ -1,13 +1,10 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-// import ReactDOM from 'react-dom'
-// import logo from './logo.svg'
-// import img from '../../img/affiche2009.jpg'
 import { Slider, Slide } from 'react-materialize'
 import './Accueil.css'
 const image = require('./../img/accueil1.jpg')
 const image1 = require('./../img/accueil2.jpg')
-const image2 = require('./../img/accueil3.jpg')
+// const image2 = require('./../img/accueil3.jpg')
 const image3 = require('./../img/accueil4.jpg')
 const image4 = require('./../img/accueil5.jpg')
 const image5 = require('./../img/accueil6.jpg')
@@ -29,20 +26,15 @@ export default function Accueil () {
         une façons !
       </p>
       <div className='container'>
-        <Slider interval={1}>
-          <Slide
-            src={image}
-            placement='left'
-          />
-          <Slide
-            src={image1}
-          />
-          <Slide src={image2} placement='right' />
+        <Slider interval={5000}>
+          <Slide src={image7} placement='right' />
+          <Slide src={image} placement='left' />
+          <Slide src={image1} />
+          {/* <Slide src={image2} placement='right' /> */}
           <Slide src={image3} placement='right' />
           <Slide src={image4} placement='right' />
           <Slide src={image5} placement='right' />
           <Slide src={image6} placement='right' />
-          <Slide src={image7} placement='right' />
         </Slider>
       </div>
 

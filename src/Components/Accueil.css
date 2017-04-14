@@ -8,8 +8,7 @@
 .slider .indicators .indicator-item.active {
   background-color: #ffffff;
 }
-.slider {
-  width: 50%;
+.slider {  
   height: 500px;
   /*left: -15%;*/
 }
