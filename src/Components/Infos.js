@@ -1,11 +1,13 @@
 import Helmet from 'react-helmet'
 import React from 'react'
+import MediaBox from 'react-materialize'
+
 const plan1 = require('./../img/plan1.png')
 const PlanSite = require('./../img/PlanSite.png')
 
 export default function Infos () {
   return (
-    <div class='texte'>
+    <div className='texte'>
       <Helmet title='Infos' />
       <h1>Informations pratiques</h1>
       {/* <table>
@@ -48,7 +50,7 @@ export default function Infos () {
       <p>Le festival a lieu devant la Mairie de Biard.</p>
       <p>
         <a target='_blank' rel='external'><img alt='Plan Poitiers' src={plan1} /></a>
-      <a target='_blank' rel='external'><img alt='Plan site' src={PlanSite} /></a>
+        <a target='_blank' rel='external'><img alt='Plan site' src={PlanSite} /></a>
       </p>
       <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume d'Aquitaine, rue des écoles, lotissements allentours. <br /><br />
       <b>Bus :</b> Ligne <a href='http://www.vitalis-poitiers.fr' target='_blank' rel='external' />Vitalis n°14 - Direction 'La Chaume' - Arrêt Tamaris. Rejoindre Biard en traversant la rocade et marcher tout droit sur quelques centaines de mètres. Vous êtes arrivé-e !<br /><br />

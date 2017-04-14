@@ -2,7 +2,7 @@ import Artiste from 'Artiste'
 import Helmet from 'react-helmet'
 import React from 'react'
 
-import './Vendredi.css'
+import './style/Programmation.css'
 // import {fanfarePlastic} from './Groupe/fanfarePlastic'
 import {Minvielle} from './Groupe/Minvielle'
 import {RadioBazar} from './Groupe/RadioBazar'

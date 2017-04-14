@@ -2,7 +2,7 @@ import Artiste from 'Artiste'
 import Helmet from 'react-helmet'
 import React from 'react'
 
-import './Vendredi.css'
+import './style/Programmation.css'
 import {Myut} from './Groupe/Myut'
 import {ZeToubitou} from './Groupe/ZeToubitou'
 import {GypsySound} from './Groupe/GypsySound'
