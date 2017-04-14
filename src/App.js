@@ -8,7 +8,6 @@ import {
 import Accueil from './Components/Accueil.js'
 import Contact from './Components/Contact.js'
 import Festival from './Components/Festival.js'
-// import Index from './Components/Index.js'
 import Infos from './Components/Infos.js'
 import Samedi from './Components/Samedi.js'
 import Vendredi from './Components/Vendredi.js'
@@ -32,8 +31,6 @@ class App extends Component {
           <Parallax strength={300} bgImage={image} >
             <div className='content'>
               <Switch>
-
-                {/* <Route exact path='/' component={Index} /> */}
                 <Route exact path='/' component={Accueil} />
                 <Route path='/contact' component={Contact} />
                 <Route path='/festival' component={Festival} />
