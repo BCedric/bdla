@@ -3,8 +3,8 @@
 export const RadioBazar = {
   nom: 'Radio Bazar',
   site: 'http://www.radiobazar.fr',
-  facebook: 'https://www.facebook.com/RADIO-BAZAR-1730261287254453/?fref=ts'
+  facebook: 'https://www.facebook.com/RADIO-BAZAR-1730261287254453/?fref=ts',
   // heure: '20h30 - 21h30',
-  // description: 'Danses, chants et percussions aux couleurs de l’Afrique de l\'ouest. Rythmes entraînants, guitares et cuivres mélodieux… Laissez-vous embarquer dans la pirogue de DJAO pour une croisière musicale et métissée.Composition du groupe :Abdou : chant, percussionsBakary : chant, danse J-B : balafon, percussions Grégory : guitare Stico : basseFabian : batterie Thomas : saxophone Hervé : batterie',
+  description: 'Petit orchestre de poche mobile et acoustique, accompagne en musique et en chansons vos moments conviviaux en toute proximité. Il se pose en un rien de temps là où sont les gens, petits et grands. Sous ses airs de fanfare de rue, Radio Bazar utilise avec humour et audace ses cordes vocales et son instrumentarium. Sa musique vous immerge dans l\'univers intime de la chanson (de Fréhel à Gainsbourg), vous perd dans l\'ambiance ensoleillée de la musique brésilienne et du jazz, vous entraîne sur le dancefloor avec Marcia Baila et Toxic... Bienvenue sur les ondes de Radio Bazar !',
   // image: image
 }

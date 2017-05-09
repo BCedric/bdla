@@ -1,9 +1,9 @@
-// const image = require('../../img/DJAO.jpg')
+const image = require('../../img/Toubidou.jpg')
 
 export const ZeToubitou = {
-  nom: 'Ze Toubitou'
+  nom: 'Ze Toubitou',
   // site: 'http://www.gypsysoundsystem.com/'
   // heure: '20h30 - 21h30',
-  // description: 'Danses, chants et percussions aux couleurs de l’Afrique de l\'ouest. Rythmes entraînants, guitares et cuivres mélodieux… Laissez-vous embarquer dans la pirogue de DJAO pour une croisière musicale et métissée.Composition du groupe :Abdou : chant, percussionsBakary : chant, danse J-B : balafon, percussions Grégory : guitare Stico : basseFabian : batterie Thomas : saxophone Hervé : batterie',
-  // image: image
+  description: 'OLDIES BUT GROOVIES. En route pour le pays des love songs ! Avec vince au piano et tok tok à la voix rocailleuse c\'est l\'amour débridé du fun et des hits british de toujours   revisité de façon décalé et festive. Ze Toubitou, c\'est une interprétation près de l\'os et authentique comme une folle soirée dans un pub de Liverpool ...',
+  image: image
 }
