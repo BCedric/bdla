@@ -15,14 +15,13 @@ export default function Samedi () {
       <h1 >Programmation du Samedi 24 Juin</h1>
       <p>
         <ul>
-          <li>Exposition /vente : artisans créateurs d’art</li>
-          <li>Parcours sensoriel proposé par l’institution de Larnay</li>
-          <li>Atelier maquillage</li>
-          <li>Jeux  participatifs et de plein air</li>
           <li>Le studio photo animé par le club photo de Biard</li>
-          <li>Ouverture de la bibliothèque</li>
-          <li>Exposition de l’IEM et de l’institut de Larnay</li>
-          <li>Instruments à sons proposés par Cap Sud</li>
+          <li>Atelier maquillage</li>
+          <li>Jeux en bois et coopératifs</li>
+          <li>Bibliothèque</li>
+          <li>Espace détente</li>
+          <li>Expo Photo</li>
+          <li>Boite à livre avec inauguration officielle</li>
         </ul>
 
       </p>
@@ -30,11 +29,34 @@ export default function Samedi () {
         Tout au long de l'après midi, vous pourrez voir des spectacles tout public
         <ul>
           <li>
-            <a>Le spectacle de bal pour enfants</a>
+            <a><b>14h</b> :Les enfants de l’Ecole de Biard présente un travail artistique mené par la Cie
+            Gramophone, déjà venue au Festival avec deux spectacles (Brèves de plaisanteries et la Maison
+            Musquin)</a>
+          </li>
+          <li>
+            <a>Les Majorettes du Val de Boivre vous emmènent dans leur univers avec un extrait de leur
+            dernier spectacle.</a>
+          </li>
+          <li>
+            <a>L’association de danse de Biard présente des extraits de leurs nouvelles chorégraphies.</a>
+          </li>
+          <li>
+            <a><b>15h30</b> : Concert et bal pour enfants et adultes organisé par la Cie Pirouette et Baliverne</a>
           </li>
 
           <li>
-            <a>Le spectacle "Avec les poules"</a>
+            <a><b>16h45</b> Spectacle H5N1 and Marcel Chapon</a>
+          </li>
+          <li>
+            <a>L’école de musique Symphonie : avec la toute jeune chorale de Symphonie « Otaké » qui a
+            pris plaisir toute l’année à travailler un répertoire de chants populaires d’ici et d’ailleurs.
+            Encouragée par leur super chef de chœur, il était tout naturel qu’ils viennent chanter à Biard
+            dans les Airs !</a>
+          </li>
+          <li>
+            <a><b>18h20</b> : L’école de musique Symphonie et ses Ateliers de musiques actuelles : basse, guitare,
+            clavier, batterie, chant tous les ingrédients réunis pour que les amateurs de rock et de
+            chansons soient comblés en voyant sur scène ces ateliers ados et adultes</a>
           </li>
           <li>
             <a><b>18h</b> : La fanfare en Plastic présentera des chansons de son futur nouveau spectacle.</a>

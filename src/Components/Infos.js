@@ -35,14 +35,16 @@ export default function Infos () {
       </table> */}
       {/* <p>Gratuit pour les -14 ans</p> */}
       <h2>Manger et boire</h2>
-      <p> <a> Le Bar à Noj est ouvert pendant tout le festival (bière, vins, sodas, jus de fruits équitable/bio/du coin, etc). <br />
+      <p>Le Bar à Noj est ouvert pendant tout le festival (bière, vins, sodas, jus de fruits équitable/bio/du coin, etc). <br />
         Vous y trouverez à manger et à boire, pour les petites et grandes faims.<br />
-        Pendant tout le festival : grillades/frites, glace, crêpe<br /></a>
+        Pendant tout le festival : grillades/frites, glace, crêpe<br />
       </p>
       <p>
-        <a>Et en plus : <br />
-      Vendredi soir : Plat maison<br />
-      Samedi soir : Repas maison ( entrées, plat, dessert )<br /></a>
+        Et en plus :
+        <ul>
+          <li>Vendredi soir : Plat maison</li>
+          <li>Samedi soir : Repas maison ( entrées, plat, dessert )</li>
+        </ul>
       </p>
       <p>Distributeur de billet le plus proche : Poitiers(Montmidi).</p>
       <h2>Venir au festival</h2>

@@ -19,6 +19,8 @@ export default function Contact () {
       <p>
         Lison, Stu, Benjamin,  Noj, la M3Q, la Blaiserie, Cap Sud, Hélène, La commune de Biard, ses employés des services techniques, Grand Poitiers et tous les bénévoles….
       </p>
+      Le festival fait partie de "Vienne fest’", le collectif des festivals de la Vienne.
+      Le festival reçoit le soutien de nombreux partenaires de la commune et des alentours .
     </div>
   )
 }
