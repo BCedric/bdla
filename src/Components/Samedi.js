@@ -10,7 +10,7 @@ import {TeacherJekyll} from './Groupe/TeacherJekyll'
 
 export default function Samedi () {
   return (
-    <div>
+    <div className='texte'>
       <Helmet title='Samedi' />
       <h1 >Programmation du Samedi 24 Juin</h1>
       <p>

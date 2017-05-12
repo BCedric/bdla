@@ -13,7 +13,7 @@ const image7 = require('./../img/accueil8.jpg')
 
 export default function Accueil () {
   return (
-    <div>
+    <div className='texte'>
       <Helmet title='Accueil' />
       <h1>Bienvenue !</h1>
       <p>
