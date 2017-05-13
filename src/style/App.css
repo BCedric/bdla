@@ -1,3 +1,7 @@
+.content ul {
+  padding: 5%;
+}
+
 .content > div {
 
   margin : auto;

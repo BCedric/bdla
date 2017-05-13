@@ -42,10 +42,15 @@ export default function Samedi () {
           </li>
           <li>
             <a><b>15h30</b> : Concert et bal pour enfants et adultes organisé par la Cie Pirouette et Baliverne</a>
+            <p>Ce bal pour enfants est présenté par 3 musiciens chanteurs polyvalents. Retrouvez beaucoup d'instruments variés :
+            violon, accordéon, guitare ukulélé, batterie basse, piano, toy, métalophone, congas, derbouka, objets sonores, etc...
+            Appel à la participation des enfants et des parents avec des danses festives, rondes, et plein d'autres !</p>
           </li>
 
           <li>
             <a><b>16h45</b> Spectacle H5N1 and Marcel Chapon</a>
+            <p>Marcel Chapon vit seul, sa femme l’a quitté il y a deux ans. Depuis, il voue une passion extraordinaire pour ses poules : Odette, Claude et Suzon. En 2004, il apprend par la radio qu’un virus mortel touche les gallinacées de France : le H5N1. De plus, toutes les personnes possédant des poules sont obligées de les déclarer à leur mairie afin qu’elles soient recensées. Mais Marcel ne l’entend pas ainsi ; il entre dans la clandestinité pour protéger ses poules du virus. Il décide lors de s’enfermer dans sa cuisine avec celles-ci. Dès lors, Marcel vit une incroyable aventure avec chacune d’entre elles : Suzon devient assistante de magicien, Claude équilibriste et Odette devient sa confidente, sa préférée, celle qu’il aime. Seulement, à force de vivre enfermé avec ses poules, Marcel adopte la gallinattitude et devient de plus en plus...
+            </p>
           </li>
           <li>
             <a>L’école de musique Symphonie : avec la toute jeune chorale de Symphonie « Otaké » qui a
