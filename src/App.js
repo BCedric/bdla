@@ -17,7 +17,7 @@ import NoMatchRoute from './Components/NoMatchRoute.js'
 import { Parallax } from 'react-parallax'
 
 import './style/App.css'
-const image = require('./img/bdla2016.jpg')
+const image = require('./img/bdla.png')
 
 class App extends Component {
   render () {
