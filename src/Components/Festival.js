@@ -2,6 +2,8 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { Slider, Slide } from 'react-materialize'
 
+import '../style/Slider.css'
+
 const image = require('./../img/festival1.jpg')
 const image1 = require('./../img/festival2.jpg')
 const image2 = require('./../img/festival3.jpg')

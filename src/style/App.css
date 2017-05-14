@@ -1,5 +1,6 @@
-.content ul {
-  padding: 5%;
+.content p ul {
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 .content > div {

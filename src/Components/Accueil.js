@@ -1,7 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { Slider, Slide } from 'react-materialize'
-import '../style/Accueil.css'
+import '../style/Slider.css'
 const image = require('./../img/accueil1.jpg')
 const image1 = require('./../img/accueil2.jpg')
 // const image2 = require('./../img/accueil3.jpg')
@@ -14,7 +14,6 @@ const image7 = require('./../img/accueil8.jpg')
 export default function Accueil () {
   return (
     <div className='texte'>
-      <Helmet title='Accueil' />
       <h1>Bienvenue !</h1>
       <p>
         Biard dans les Airs est un festival ou l on croise la musique, la danse,
