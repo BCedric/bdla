@@ -1,5 +1,4 @@
 import React from 'react'
-import Helmet from 'react-helmet'
 import { Slider, Slide } from 'react-materialize'
 import '../style/Slider.css'
 const image = require('./../img/accueil1.jpg')
@@ -11,16 +10,22 @@ const image5 = require('./../img/accueil6.jpg')
 const image6 = require('./../img/accueil7.jpg')
 const image7 = require('./../img/accueil8.jpg')
 
+
+const affichebdla = require('./../img/BDLA_affiche.jpg')
+
 export default function Accueil () {
   return (
     <div className='texte'>
       <h1>Bienvenue !</h1>
       <p>
-        Biard dans les Airs est un festival ou l on croise la musique, la danse,
+        Biard dans les Airs est un festival où l'on croise la musique, la danse,
         le théâtre, la poésie, le cirque...
       </p>
+      <div className='affichebdla'>
+        <img alt='affichebdla' src={affichebdla} />
+      </div>
       <p>
-        Il est ouvert à toute la famille dans un site aménagé spécialement pour l occasion.
+        Il est ouvert à toute la famille dans un site aménagé spécialement pour l'occasion.
         Vous pourrez passer deux jours à vous remplir les yeux et les oreilles de mille et
         une façons !
       </p>

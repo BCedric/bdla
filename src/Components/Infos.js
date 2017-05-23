@@ -37,13 +37,13 @@ export default function Infos () {
       <h2>Manger et boire</h2>
       <p>Le Bar à Noj est ouvert pendant tout le festival (bière, vins, sodas, jus de fruits équitable/bio/du coin, etc). <br />
         Vous y trouverez à manger et à boire, pour les petites et grandes faims.<br />
-        Pendant tout le festival : grillades/frites, glace, crêpe<br />
+        Pendant tout le festival : grillades/frites, glaces, crêpes<br />
       </p>
       <p>
         Et en plus :
         <ul>
           <li>Vendredi soir : Plat maison</li>
-          <li>Samedi soir : Repas maison ( entrées, plat, dessert )</li>
+          <li>Samedi soir : Moules frites</li>
         </ul>
       </p>
       <p>Distributeur de billet le plus proche : Poitiers(Montmidi).</p>
@@ -53,8 +53,8 @@ export default function Infos () {
         <a target='_blank' rel='external'><img alt='Plan Poitiers' src={plan1} /></a>
         <a target='_blank' rel='external'><img alt='Plan site' src={PlanSite} /></a>
       </p>
-      <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume d'Aquitaine, rue des écoles, lotissements allentours. <br /><br />
-      <b>Bus :</b> Ligne <a href='http://www.vitalis-poitiers.fr' target='_blank' rel='external' />Vitalis n°14 - Direction 'La Chaume' - Arrêt Tamaris. Rejoindre Biard en traversant la rocade et marcher tout droit sur quelques centaines de mètres. Vous êtes arrivé-e !<br /><br />
+      <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume d'Aquitaine, rue des écoles, parking du gymnase, lotissements allentours. <br /><br />
+      <b>Bus :</b> Ligne n°12 : le prendre au centre ville de Poitiers en direction de Béruges ; descendre au gymnase de Biard.
     </div>
   )
 }
