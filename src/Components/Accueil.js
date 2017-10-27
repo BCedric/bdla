@@ -1,3 +1,4 @@
+import Helmet from 'react-helmet'
 import React from 'react'
 import { Slider, Slide } from 'react-materialize'
 import '../style/Slider.css'
@@ -16,6 +17,7 @@ const affichebdla = require('./../img/BDLA_affiche.jpg')
 export default function Accueil () {
   return (
     <div className='texte'>
+      <Helmet title='Accueil' />
       <h1>Bienvenue !</h1>
       <p>
         Biard dans les Airs est un festival où l'on croise la musique, la danse,
