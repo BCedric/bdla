@@ -12,7 +12,7 @@ const image6 = require('./../img/accueil7.jpg')
 const image7 = require('./../img/accueil8.jpg')
 
 
-const affichebdla = require('./../img/BDLA_affiche.jpg')
+const affichebdla = require('./../img/bdla2018.PNG')
 
 export default function Accueil () {
   return (
