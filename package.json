@@ -8,6 +8,7 @@
     "standard": "^8.6.0"
   },
   "dependencies": {
+    "npm": "^5.8.0",
     "react": "^15.4.2",
     "react-helmet": "^4.0.0",
     "react-materialize": "^0.18.1",

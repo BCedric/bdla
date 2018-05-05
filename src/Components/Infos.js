@@ -37,13 +37,13 @@ export default function Infos () {
       <h2>Manger et boire</h2>
       <p>Le Bar à Noj est ouvert pendant tout le festival (bière, vins, sodas, jus de fruits équitable/bio/du coin, etc). <br />
         Vous y trouverez à manger et à boire, pour les petites et grandes faims.<br />
-        Pendant tout le festival : grillades/frites, glaces, crêpes<br />
+        Pendant tout le festival : grillades/frites, crêpes<br />
       </p>
       <p>
         Et en plus :
         <ul>
-          <li>Vendredi soir : Plat maison</li>
-          <li>Samedi soir : Moules frites</li>
+                  <li>Vendredi soir : Couscous</li>
+                  <li>Samedi soir : Porc au Curry/Ananas</li>
         </ul>
       </p>
       <p>Distributeur de billet le plus proche : Poitiers(Montmidi).</p>

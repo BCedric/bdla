@@ -1,3 +1,11 @@
 .texte {
   width: 95%;
 }
+
+.samedi-aprem-prog div {
+    text-align: center;
+}
+
+.samedi-aprem-prog li img{
+    display: inline-block;
+}

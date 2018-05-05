@@ -15,7 +15,7 @@ export default function Contact () {
       <h1>Contacts</h1>
       <p>
         Gilles Morin 06 83 33 83 71 <br />
-        contact@la-fanfare-en-plastic.com<br />
+              Morin.gilles@wanadoo.fr<br />
         facebook :
         <a href='https://www.facebook.com/biarddanslesairs/?ref=ts&fref=ts'>
         Festival Biard dans les airs</a><br />
@@ -24,7 +24,10 @@ export default function Contact () {
         Merci à
       </p>
       <p>
-        Lison, Stu, Benjamin,  Noj, la M3Q, la Blaiserie, Cap Sud, Hélène, La commune de Biard, ses employés des services techniques, Grand Poitiers et tous les bénévoles….
+        Mick, Aurélien, Alexandre, Lison, Stu ,Damien,  la M3Q, La Blaiserie,  Hélène, la commune de Biard, ses employés des services techniques, Grand Poitiers.
+      </p>
+      <p>
+          Le festival reçoit le soutien de nombreux partenaires de la commune et des alentours.
       </p>
       Le festival fait partie de "Vienne fest’", le collectif des festivals de la Vienne.
       Il reçoit le soutien de nombreux partenaires de la commune et aux alentours.
