@@ -25,8 +25,8 @@ export default function Samedi () {
           <li>Espace détente</li>
           <li>Massage</li>
           <li>Magie</li>
-            <li>vélo smoothies</li>
-            <li>vélo musique</li>
+            <li>Vélo smoothies</li>
+            <li>Vélo musique</li>
         </ul>
 
       </p>
