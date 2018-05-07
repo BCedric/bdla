@@ -67,7 +67,9 @@ export default function Samedi () {
           </li>
             <li>
                 <a>- <b>18h20</b> : La Fanfare en Plastic</a>
+                    <div>
                       <MediaBox src={fanfare} caption="Fanfare en Plastic" width="350" />
+                    </div>
                 <p>
                     En une heure ces chansons de Camille, Jean Yanne, Eddy Mitchel, les Charlots, Loïc Lantoine , Pierre Perret ,HK et les saltimbanks , Bourvil, Lavilliers... vous emmènent dans un univers festif à la recherche de liberté ...... tout  en interpellant  notre relation au travail .
                           Laissez-vous emporter par les nombreux musiciens et chanteurs de la Fanfare en plastic: rires, émotions, révoltes avec toujours l'envie d'être ensemble et d'y croire...
