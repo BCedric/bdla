@@ -34,8 +34,6 @@ export default function Samedi () {
         <ul className="samedi-aprem-prog">
           <li>
             <a>- <b>14h</b> :les enfants des écoles présentent un travail artistique mené par la Cie des lutins du Voyage</a>
-            Les majorettes du Val de Boivre vous emmènent dans leur univers avec un extrait de leur dernier spectacle.
-            L 'association de danse de Biard présente des extraits de leurs nouvelles chorégraphies hip- hop et modern jazz.
           </li>
           <li>
             <a>- Les Majorettes du Val de Boivre vous emmènent dans leur univers avec un extrait de leur
@@ -45,9 +43,9 @@ export default function Samedi () {
             <a>- L’association de danse de Biard présente des extraits de leurs nouvelles chorégraphies hip-hop et modern jazz.</a>
           </li>
           <li>
-                      <a>- <b>15h30</b> : Les Lutins du Voyage</a>
+                      <a className="samedi-aprem-titre">- <b>15h30</b> : Les Lutins du Voyage</a>
                       <div>
-                        <MediaBox src={lutins} caption="Les Lutins du Voyage" width="350" />
+                        <MediaBox src={lutins} caption="Les Lutins du Voyage" width="50%" />
                       </div>
             <p>
                 Deux lutins doux-dingues ont décidé de quitter leur forêt,
@@ -66,9 +64,9 @@ export default function Samedi () {
                 <a>- L’école de Musique symphonie : L’école de musique Symphonie et ses Ateliers de musiques actuelles : Ateliers musiques actuelles : "C’est un hommage à David Bowie que vous propose cette année l’atelier adultes de Symphonie. Quant à l’atelier ados, il comblera les amateurs de rock avec ses reprises de grands tubes de leurs groupes préférés !</a>
           </li>
             <li>
-                <a>- <b>18h20</b> : La Fanfare en Plastic</a>
+                <a className="samedi-aprem-titre">- <b>18h20</b> : La Fanfare en Plastic</a>
                     <div>
-                      <MediaBox src={fanfare} caption="Fanfare en Plastic" width="350" />
+                      <MediaBox src={fanfare} caption="La Fanfare en Plastic" width="80%" />
                     </div>
                 <p>
                     En une heure ces chansons de Camille, Jean Yanne, Eddy Mitchel, les Charlots, Loïc Lantoine , Pierre Perret ,HK et les saltimbanks , Bourvil, Lavilliers... vous emmènent dans un univers festif à la recherche de liberté ...... tout  en interpellant  notre relation au travail .

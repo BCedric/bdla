@@ -10,7 +10,6 @@ export default class Vendredi extends React.Component {
         return (
             <div className='texte'>
              <Helmet title='Vendredi' />
-             {/* <h1>En Construction</h1> */}
                 <h1 className='titre'>Programmation du Vendredi 22 Juin</h1>
 
             <p>
