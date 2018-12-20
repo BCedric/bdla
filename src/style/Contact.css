@@ -7,3 +7,7 @@
 .partenaires {
   text-align: center;
 }
+
+p > span {
+  display: block;
+}

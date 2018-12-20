@@ -3,13 +3,18 @@
 }
 
 .samedi-aprem-prog div {
-    text-align: center;
+  text-align: center;
 }
 
-.samedi-aprem-prog li img{
-    display: inline-block;
+.samedi-aprem-prog li img {
+  display: inline-block;
 }
 
 .samedi-aprem-titre {
-    font-size: 1.4em;
+  font-size: 1.4em;
+}
+
+.programmation-en-preparation {
+  text-align: center;
+  font-size: 1.4em;
 }
