@@ -1,13 +1,18 @@
-import Artiste from 'Artiste';
-import Helmet from 'react-helmet';
-import React from 'react';
+import Artiste from 'Artiste'
+import Helmet from 'react-helmet'
+import React from 'react'
 
-import { MediaBox } from 'react-materialize';
+import '../style/Programmation.css'
 
-import '../style/Programmation.css';
-import Groupes from './Groupe';
-const lutins = require('./../img/lutins_imageverticale.jpg');
-const fanfare = require('./../img/photofanfare2.jpg');
+import {
+  MotorcycleShow,
+  CactusRiders,
+  TarmacRodeo,
+  BorisViande
+} from './Groupe'
+
+const fanfare = require('../img/fanfare.jpg')
+const STARRR = require('../img/STARRR.jpg')
 
 export default function Samedi() {
   return (
@@ -15,10 +20,7 @@ export default function Samedi() {
       <Helmet title="Samedi" />
 
       <h1>Programmation du Samedi 29 Juin</h1>
-      <div className="programmation-en-preparation">
-        <span>Programmation en préparation</span>
-      </div>
-      {/* <div>
+      <div>
         <p>
           <ul>
             <li>Le studio photo animé par le club photo de Biard</li>
@@ -27,13 +29,12 @@ export default function Samedi() {
             <li>Espace détente</li>
             <li>Massage</li>
             <li>Magie</li>
-            <li>Vélo smoothies</li>
-            <li>Vélo musique</li>
+            <li>Smoothies Biard Tour</li>
           </ul>
         </p>
         <p>
           <ul className="samedi-aprem-prog">
-            <li>
+            {/* <li>
               <span className="samedi-aprem-titre">
                 - <b>14h</b> :les enfants des écoles présentent un travail
                 artistique mené par la Cie des lutins du Voyage
@@ -50,26 +51,6 @@ export default function Samedi() {
                 - L’association de danse de Biard présente des extraits de leurs
                 nouvelles chorégraphies hip-hop et modern jazz.
               </span>
-            </li>
-            <li>
-              <span className="samedi-aprem-titre">
-                - <b>15h30</b> : Les Lutins du Voyage
-              </span>
-              <div>
-                <MediaBox
-                  src={lutins}
-                  caption="Les Lutins du Voyage"
-                  width="50%"
-                />
-              </div>
-              <p>
-                Deux lutins doux-dingues ont décidé de quitter leur forêt,
-                devenue trop petite pour leur folie créatrice. A cheval sur une
-                bicyclette trafiquée, ils ont décidé de devenir des lutins du
-                voyage, de ceux qui partent à la rencontre des humains avec
-                leurs chansonnettes, leurs instruments… et une bonne dose de
-                bonne-humeur !
-              </p>
             </li>
 
             <li>
@@ -88,16 +69,52 @@ export default function Samedi() {
                 comblera les amateurs de rock avec ses reprises de grands tubes
                 de leurs groupes préférés !
               </span>
+            </li> */}
+
+            <li>
+              <span className="samedi-aprem-titre">
+                - {/*<b>18h00</b> :*/} S.T.A.R.R.R.
+              </span>
+              <div className="samedi-aprem-img">
+                <img
+                  src={STARRR}
+                  caption="STARRR"
+                  width="80%"
+                  alt="S.T.A.R.R.R."
+                />
+              </div>
+              <p>
+                Guillaume Fabre, responsable des formations au sein du Conseil
+                Régional du Tourisme, est fier de venir présenter à ses
+                stagiaires bénévoles son programme pour faire face à un grand
+                défi contemporain : comment dynamiser le tourisme local ?
+              </p>
             </li>
             <li>
               <span className="samedi-aprem-titre">
-                - <b>18h00</b> : La Fanfare en Plastic
+                - {/*<b>18h00</b> :*/} Un Loup dans l'Potage
               </span>
-              <div>
-                <MediaBox
+              <p>
+                Prenez des instruments à cordes, divers corps sonores et
+                percussions, un texte drôle et tout en finesse, pas forcément
+                moral, une comédienne excentrique, deux musiciennes
+                extravagantes, une marmite. Mélangez et vous obtenez un
+                spectacle comique et de qualité supérieure. Bref, c’est
+                l’histoire d’un loup pas ordinaire, d’un lapin déjanté et d’une
+                fée fêlée et maladroite, tous évoluant autour d’une marmite où
+                rien ne se passe comme prévu.
+              </p>
+            </li>
+            <li>
+              <span className="samedi-aprem-titre">
+                - {/*<b>18h00</b> :*/} La Fanfare en Plastic
+              </span>
+              <div className="samedi-aprem-img">
+                <img
                   src={fanfare}
                   caption="La Fanfare en Plastic"
                   width="80%"
+                  alt="La Fanfare en plastic"
                 />
               </div>
               <p>
@@ -119,11 +136,12 @@ export default function Samedi() {
           peut)
         </p>
         <div>
-          <Artiste groupe={Groupes.PierreEtFils} />
-          <Artiste groupe={Groupes.BalPrevert} />
-          <Artiste groupe={Groupes.AmadeusMozza} />
+          <Artiste groupe={MotorcycleShow} />
+          <Artiste groupe={CactusRiders} />
+          <Artiste groupe={TarmacRodeo} />
+          <Artiste groupe={BorisViande} />
         </div>
-      </div> */}
+      </div>
     </div>
-  );
+  )
 }

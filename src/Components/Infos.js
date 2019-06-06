@@ -1,8 +1,8 @@
-import Helmet from 'react-helmet';
-import React from 'react';
+import Helmet from 'react-helmet'
+import React from 'react'
 
-const plan1 = require('./../img/plan1.png');
-const PlanSite = require('./../img/PlanSite.png');
+const plan1 = require('./../img/plan1.png')
+const PlanSite = require('./../img/PlanSite.png')
 
 export default function Infos() {
   return (
@@ -44,25 +44,32 @@ export default function Infos() {
       <p>
         Et en plus :
         <ul>
-          <li>Vendredi soir : Couscous</li>
-          <li>Samedi soir : Porc au Curry/Ananas</li>
+          <li>Vendredi soir : ???</li>
+          <li>Samedi soir : ???</li>
         </ul>
       </p>
       <p>Distributeur de billet le plus proche : Poitiers(Montmidi).</p>
       <h2>Venir au festival</h2>
       <p>Le festival a lieu devant la Mairie de Biard.</p>
       <p>
-        <a target="_blank" rel="external">
+        <div>
           <img alt="Plan Poitiers" src={plan1} />
-        </a>
-        <a target="_blank" rel="external">
+        </div>
+        <div>
           <img alt="Plan site" src={PlanSite} />
-        </a>
+        </div>
       </p>
-      <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume
-      d'Aquitaine, rue des écoles, parking du gymnase, lotissements allentours.
-      <b>Bus :</b> Ligne n°12 : le prendre au centre ville de Poitiers en
-      direction de Béruges ; descendre au gymnase de Biard.
+      <div>
+        <p>
+          <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume
+          d'Aquitaine, rue des écoles, parking du gymnase, lotissements
+          allentours.
+        </p>
+        <p>
+          <b>Bus :</b> Ligne n°12 : le prendre au centre ville de Poitiers en
+          direction de Béruges ; descendre au gymnase de Biard.
+        </p>
+      </div>
     </div>
-  );
+  )
 }

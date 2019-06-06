@@ -8,6 +8,8 @@
 
 .samedi-aprem-prog li img {
   display: inline-block;
+  max-height: 500px;
+  width: auto;
 }
 
 .samedi-aprem-titre {
@@ -17,4 +19,19 @@
 .programmation-en-preparation {
   text-align: center;
   font-size: 1.4em;
+}
+
+.card {
+  width: 95%;
+}
+
+.card-image {
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.card-image > img {
+  max-height: 550px;
+  width: auto !important;
 }

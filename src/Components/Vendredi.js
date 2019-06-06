@@ -1,9 +1,9 @@
-import Artiste from 'Artiste';
-import Helmet from 'react-helmet';
-import React from 'react';
+import Artiste from 'Artiste'
+import Helmet from 'react-helmet'
+import React from 'react'
 
-import '../style/Programmation.css';
-import Groupes from './Groupe';
+import '../style/Programmation.css'
+import { LesTontonsZingueurs, BancalCheri, LaBelleImage } from './Groupe'
 
 export default class Vendredi extends React.Component {
   render() {
@@ -11,18 +11,18 @@ export default class Vendredi extends React.Component {
       <div className="texte">
         <Helmet title="Vendredi" />
         <h1 className="titre">Programmation du Vendredi 28 Juin</h1>
-        <div className="programmation-en-preparation">
+        {/* <div className="programmation-en-preparation">
           <span>Programmation en préparation</span>
-        </div>
+        </div> */}
 
-        {/* <p>
+        <p>
           Ouverture du site à 19h. Entrées : participation libre (Chacun donne
           ce qu’il veut ou ce qu’il peut)
         </p>
-        <Artiste groupe={Groupes.Jomipilos} />
-        <Artiste groupe={Groupes.Begoodiz} />
-        <Artiste groupe={Groupes.OpsaDeheli} /> */}
+        <Artiste groupe={LesTontonsZingueurs} />
+        <Artiste groupe={BancalCheri} />
+        <Artiste groupe={LaBelleImage} />
       </div>
-    );
+    )
   }
 }

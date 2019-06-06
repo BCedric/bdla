@@ -1,15 +1,7 @@
-import AmadeusMozza from './AmadeusMozza'
-import BalPrevert from './BalPrevert'
-import Begoodiz from './Begoodiz'
-import Jomipilos from './Jomipilos'
-import OpsaDeheli from './OpsaDeheli'
-import PierreEtFils from './PierreEtFils'
-
-export default {
-    AmadeusMozza,
-    BalPrevert,
-    Begoodiz,
-    Jomipilos,
-    OpsaDeheli,
-    PierreEtFils
-}
+export * from './BancalCheri'
+export * from './BorisViande'
+export * from './CactusRiders'
+export * from './LaBelleImage'
+export * from './LesTontonsZingueurs'
+export * from './MotorcycleShow'
+export * from './TarmacRodeo'
