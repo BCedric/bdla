@@ -62,8 +62,7 @@ export default function Infos() {
       <div>
         <p>
           <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume
-          d'Aquitaine, rue des écoles, parking du gymnase, lotissements
-          allentours.
+          d'Aquitaine, rue des écoles, parking du gymnase.
         </p>
         <p>
           <b>Bus :</b> Ligne n°12 : le prendre au centre ville de Poitiers en

@@ -22,6 +22,9 @@ export default function Accueil() {
         Biard dans les Airs est un festival où l'on croise la musique, la danse,
         le théâtre, la poésie, le cirque...
       </p>
+      <p>
+        Le site est ombragé, de nombreux spectacles auront lieu dans un petit bois. Vous serez mieux sur le site du festival que chez vous !!! Alors venez...
+      </p>
       <div className="affichebdla">
         <img alt="affichebdla" src={affichebdla} />
       </div>
