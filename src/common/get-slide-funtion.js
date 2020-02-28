@@ -1,0 +1,10 @@
+import React from 'react'
+import { Slide } from 'react-materialize'
+
+const CustomSlide = ({ img }) => {
+    const imgTag = <img alt="" src={img} />
+
+    return <Slide image={imgTag} />
+}
+
+export default CustomSlide

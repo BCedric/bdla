@@ -10,6 +10,7 @@ import {
   TarmacRodeo,
   BorisViande
 } from './Groupe'
+import ProgInProgress from './ProgInProgress'
 
 const fanfare = require('../img/fanfare.jpg')
 const STARRR = require('../img/STARRR.jpg')
@@ -19,8 +20,9 @@ export default function Samedi() {
     <div className="texte">
       <Helmet title="Samedi" />
 
-      <h1>Programmation du Samedi 29 Juin</h1>
-      <div>
+      <h1>Programmation du Samedi 27 Juin</h1>
+      <ProgInProgress />
+      {/* <div>
         <p>
           <ul>
             <li>Le studio photo animé par le club photo de Biard</li>
@@ -133,7 +135,7 @@ export default function Samedi() {
           <Artiste groupe={TarmacRodeo} />
           <Artiste groupe={BorisViande} />
         </div>
-      </div>
+      </div> */}
     </div>
   )
 }

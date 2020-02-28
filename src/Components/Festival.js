@@ -1,13 +1,16 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import { Slider, Slide } from 'react-materialize'
+import { Slider } from 'react-materialize'
 
 import '../style/Slider.css'
+import CustomSlide from '../common/get-slide-funtion'
 
 const image = require('./../img/festival1.jpg')
 const image1 = require('./../img/festival2.jpg')
 const image2 = require('./../img/festival3.jpg')
 const image3 = require('./../img/festival4.jpg')
+const image4 = require('./../img/festival5.jpg')
+const image5 = require('./../img/festival6.jpg')
 
 export default function Festival() {
   const anneeCourante = new Date().getFullYear()
@@ -26,10 +29,12 @@ export default function Festival() {
       </p>
       <div className="container">
         <Slider interval={3000}>
-          <Slide src={image} placement="left" />
-          <Slide src={image1} />
-          <Slide src={image2} placement="right" />
-          <Slide src={image3} placement="right" />
+          <CustomSlide img={image} />
+          <CustomSlide img={image1} />
+          <CustomSlide img={image2} />
+          <CustomSlide img={image3} />
+          <CustomSlide img={image4} />
+          <CustomSlide img={image5} />
         </Slider>
       </div>
       <p>

@@ -35,3 +35,9 @@
   max-height: 550px;
   width: auto !important;
 }
+
+.prog-in-progress {
+  display: flex;
+  justify-content: center;
+  font-size: 2em;
+}

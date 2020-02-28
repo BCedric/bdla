@@ -13,3 +13,7 @@ nav {
   position: static;
   z-index: 100;
 }
+
+.nav-item {
+  padding: 0 2em;
+}

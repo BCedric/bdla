@@ -1,22 +1,22 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
-import { Navbar, NavItem } from 'react-materialize'
+import { Navbar } from 'react-materialize'
 
 import '../style/Header.css'
 const imgbdla = require('./../img/bandeau.png')
 
 class Header extends Component {
-  render () {
+  render() {
     return (
       <div className='header'>
         <Link to='/'><img src={imgbdla} className='imgbdla' alt='' /></Link>
         <Navbar className='navbar light-green darken-3'>
-          <NavItem><Link to='/'>Accueil</Link></NavItem>
-          <NavItem><Link to='/festival'>Festival</Link></NavItem>
-          <NavItem><Link to='/vendredi'>Vendredi</Link></NavItem>
-          <NavItem><Link to='/samedi'>Samedi</Link></NavItem>
-          <NavItem><Link to='/infos'>Infos</Link></NavItem>
-          <NavItem><Link to='/contact'>Contact</Link></NavItem>
+          <Link className="nav-item" to="/">Accueil</Link>
+          <Link className="nav-item" to='/festival'>Festival</Link>
+          <Link className="nav-item" to='/vendredi'>Vendredi</Link>
+          <Link className="nav-item" to='/samedi'>Samedi</Link>
+          <Link className="nav-item" to='/infos'>Infos</Link>
+          <Link className="nav-item" to='/contact'>Contact</Link>
         </Navbar>
       </div>
     )
