@@ -10,7 +10,7 @@ export default class Vendredi extends React.Component {
   render() {
     return (
       <div >
-        < Helmet title="Vendredi" />
+        <Helmet title="Vendredi" />
         <h1 className="titre">Programmation du Vendredi 26 Juin</h1>
 
         <InProgressChecker>

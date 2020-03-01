@@ -18,7 +18,6 @@ export default function Samedi() {
       <h1>Programmation du Samedi 27 Juin</h1>
 
       <InProgressChecker>
-
         <div>
           <div className="animations-continues">
             <div>
