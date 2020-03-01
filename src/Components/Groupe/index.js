@@ -1,7 +1,0 @@
-export * from './BancalCheri'
-export * from './BorisViande'
-export * from './CactusRiders'
-export * from './LaBelleImage'
-export * from './LesTontonsZingueurs'
-export * from './MotorcycleShow'
-export * from './TarmacRodeo'

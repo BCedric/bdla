@@ -2,8 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { Slider } from 'react-materialize'
 
-import '../style/Slider.css'
-import CustomSlide from '../common/get-slide-funtion'
+import CustomSlide from 'CustomSlide'
 
 const image = require('./../img/festival1.jpg')
 const image1 = require('./../img/festival2.jpg')
@@ -15,8 +14,8 @@ const image5 = require('./../img/festival6.jpg')
 export default function Festival() {
   const anneeCourante = new Date().getFullYear()
   return (
-    <div className="texte">
-      <Helmet title="Festival" />
+    <div >
+      < Helmet title="Festival" />
       <h1>Le Festival</h1>
       <p>
         Le Festival est organisé par <i>Le Comité des fêtes</i> et les{' '}
@@ -45,6 +44,6 @@ export default function Festival() {
         envol festif. De plus en plus de monde prend l'habitude de venir pour y
         passer du bon temps.
       </p>
-    </div>
+    </div >
   )
 }

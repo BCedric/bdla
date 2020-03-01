@@ -1,39 +1,16 @@
 import Helmet from 'react-helmet'
 import React from 'react'
 
+import repasData from '../data/repas.json'
+
 const plan1 = require('./../img/plan1.png')
 const PlanSite = require('./../img/PlanSite.png')
 
 export default function Infos() {
   return (
-    <div className="texte">
-      <Helmet title="Infos" />
+    <div >
+      < Helmet title="Infos" />
       <h1>Informations pratiques</h1>
-      {/* <table>
-        <tr>
-          <td>Tarif normal</td>
-          <td>Tarif réduit: chômeurs, étudiants, lycéens...</td>
-        </tr>
-        <tr>
-          <td>Vendredi soir, dès 19h</td>
-          <td colspan='2'>5€ tarif unique</td>
-        </tr>
-        <tr>
-          <td>Samedi après-midi <small>dès 14h</small></td>
-          <td colspan='2'>Gratuit</td>
-        </tr>
-        <tr>
-          <td>Samedi soir <small>dès 21h</small></td>
-          <td>10€</td>
-          <td>6€</td>
-        </tr>
-        <tr>
-          <td>PASS 2 JOURS</td>
-          <td>12€</td>
-          <td>10€</td>
-        </tr>
-      </table> */}
-      {/* <p>Gratuit pour les -14 ans</p> */}
       <h2>Manger et boire</h2>
       <p>
         Le Bar à Noj est ouvert pendant tout le festival (bière, vins, sodas,
@@ -41,13 +18,13 @@ export default function Infos() {
         à boire, pour les petites et grandes faims. Pendant tout le festival :
         grillades/frites, crêpes
       </p>
-      <p>
+      {repasData.vendredi != null && repasData.samedi != null && <p>
         Et en plus :
         <ul>
-          <li>Vendredi soir : ???</li>
-          <li>Samedi soir : ???</li>
+          <li>Vendredi soir : {repasData.vendredi}</li>
+          <li>Samedi soir : {repasData.samedi}</li>
         </ul>
-      </p>
+      </p>}
       <p>Distributeur de billet le plus proche : Poitiers(Montmidi).</p>
       <h2>Venir au festival</h2>
       <p>Le festival a lieu devant la Mairie de Biard.</p>
@@ -69,6 +46,6 @@ export default function Infos() {
           direction de Béruges ; descendre au gymnase de Biard.
         </p>
       </div>
-    </div>
+    </div >
   )
 }

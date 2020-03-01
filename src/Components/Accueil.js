@@ -1,8 +1,11 @@
-import Helmet from 'react-helmet'
 import React from 'react'
+
+import Helmet from 'react-helmet'
+
 import { Slider } from 'react-materialize'
-import '../style/Slider.css'
-import CustomSlide from '../common/get-slide-funtion'
+
+import CustomSlide from 'CustomSlide'
+
 const image = require('./../img/accueil1.jpg')
 const image1 = require('./../img/accueil2.jpg')
 const image2 = require('./../img/accueil3.jpg')
@@ -14,8 +17,8 @@ const affichebdla = require('./../img/affiche2020.jpg')
 export default function Accueil() {
 
   return (
-    <div className="texte">
-      <Helmet title="Accueil" />
+    <div >
+      < Helmet title="Accueil" />
       <h1>Bienvenue !</h1>
       <p>
         Biard dans les Airs est un festival où l'on croise la musique, la danse,
@@ -41,6 +44,6 @@ export default function Accueil() {
           <CustomSlide img={image4} />
         </Slider>
       </div>
-    </div>
+    </div >
   )
 }

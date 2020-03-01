@@ -16,11 +16,10 @@ import Helmet from 'react-helmet'
 import NoMatchRoute from './Components/NoMatchRoute.js'
 import { Parallax } from 'react-parallax'
 
-import './style/App.css'
 const image = require('./img/bdla.png')
 
 class App extends Component {
-  render () {
+  render() {
     return (
       <Router>
         <div className='wrapper' >

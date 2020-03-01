@@ -1,0 +1,32 @@
+[
+    {
+        "titre": "les enfants des écoles présentent un travail artistique mené autour de la Batucada",
+        "heure": "14h"
+    },
+    {
+        "titre": "L’association de danse de Biard présente des extraits de leurs nouvelles chorégraphies hip-hop et moderne jazz."
+    },
+    {
+        "titre": "Un Loup dans l'Potage",
+        "heure": "15h30",
+        "description": "Prenez des instruments à cordes, divers corps sonores et percussions, un texte drôle et tout en finesse, pas forcément moral, une comédienne excentrique, deux musiciennes extravagantes, une marmite. Mélangez et vous obtenez un spectacle comique et de qualité supérieure. Bref, c’est l’histoire d’un loup pas ordinaire, d’un lapin déjanté et d’une fée fêlée et maladroite, tous évoluant autour d’une marmite où rien ne se passe comme prévu."
+    },
+    {
+        "titre": "S.T.A.R.R.R",
+        "heure": "16h30",
+        "description": "Guillaume Fabre, responsable des formations au sein du Conseil Régional du Tourisme, est fier de venir présenter à ses stagiaires bénévoles son programme pour faire face à un grand défi contemporain : comment dynamiser le tourisme local ?",
+        "image": "./img/spectacles/STARRR.jpg"
+    },
+    {
+        "titre": "La chorale Otaké et son chef de coeur Paul Paitel ont le plaisir de vous présenter une partie de son énergique répertoire 2019."
+    },
+    {
+        "titre": "Les jeunes musiciens de Symphone vous présenteront leur reprises travaillées en atelier avec Olivier Dehaud"
+    },
+    {
+        "titre": "La Fanfare en Plastic",
+        "heure": "18h15",
+        "description": "En une heure ces chansons de Camille, Jean Yanne, Eddy Mitchel, les Charlots, Loïc Lantoine , Pierre Perret ,HK et les saltimbanks , Bourvil, Lavilliers... vous emmènent dans un univers festif à la recherche de liberté ...... tout en interpellant notre relation au travail . Laissez-vous emporter par les nombreux musiciens et chanteurs de la Fanfare en plastic: rires, émotions, révoltes avec toujours l'envie d'être ensemble et d'y croire...",
+        "image": "./img/spectacles/fanfare.jpg"
+    }
+]

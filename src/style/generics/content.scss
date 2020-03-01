@@ -1,0 +1,18 @@
+.content {
+  width: 60%;
+  margin-top: 2em;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+  background-color: white;
+  padding: 2em 4em;
+
+  & > div {
+      margin: auto;
+  }
+
+  p ul {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+}
