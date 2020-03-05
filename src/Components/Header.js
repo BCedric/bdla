@@ -15,6 +15,7 @@ class Header extends Component {
           <Link className="nav-item unselectable" to='/vendredi'>Vendredi</Link>
           <Link className="nav-item unselectable" to='/samedi'>Samedi</Link>
           <Link className="nav-item unselectable" to='/infos'>Infos</Link>
+          <Link className="nav-item unselectable" to='/remerciements'>Remerciements</Link>
           <Link className="nav-item unselectable" to='/contact'>Contact</Link>
         </Navbar>
       </div>
