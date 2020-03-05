@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import {
-  BrowserRouter as Router,
   Route,
-  Switch
+  Switch,
+  HashRouter
 } from 'react-router-dom'
 
 import Accueil from './Components/Accueil.js'
