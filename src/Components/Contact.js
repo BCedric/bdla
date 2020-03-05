@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <div >
       < Helmet title="Contact" />
-      <h1>Contacts</h1>
+      <h1>Contact</h1>
       <ul className="contact-gille">
         <li>Gilles Morin</li>
         <li>06 83 33 83 71</li>
