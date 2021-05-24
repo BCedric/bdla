@@ -1,14 +1,16 @@
 .artiste-card {
-    width: 95%;
-    margin: 1em auto;
-    .card-image {
-        display: flex;
-        justify-content: center;
-        overflow: hidden;
-        
-        img {
-            max-height: 550px;
-            width: auto !important;
-        }
+  width: 95%;
+  margin: 1em auto;
+  .card-image {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+
+    img {
+      max-height: 550px;
+      height: auto;
+      width: auto !important;
+      max-width: 100%;
     }
+  }
 }

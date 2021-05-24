@@ -9,21 +9,18 @@ import Spectacle from 'Spectacle'
 import { samedi as groupes } from '../data/groupes.json'
 import spectacles from '../data/spectacles.json'
 
-
 export default function Samedi() {
   return (
     <div>
       <Helmet title="Samedi" />
 
-      <h1>Programmation du Samedi 27 Juin</h1>
+      <h1>Programmation du Samedi 26 Juin</h1>
 
       <InProgressChecker>
         <div>
-          <div className="animations-continues">
+          {/* <div className="animations-continues">
             <div>
-              <p>
-                Tout l'après-midi, les animations suivantes en continu:
-            </p>
+              <p>Tout l'après-midi, les animations suivantes en continu:</p>
               <ul>
                 <li>Le studio photo animé par le club photo de Biard</li>
                 <li>Atelier maquillage</li>
@@ -37,7 +34,7 @@ export default function Samedi() {
           </div>
           <h2>A partir de 14h</h2>
           <div className="prog-spectacles">
-            {spectacles.map((spectacle, index) =>
+            {spectacles.map((spectacle, index) => (
               <Spectacle
                 key={index}
                 title={spectacle.titre}
@@ -45,19 +42,17 @@ export default function Samedi() {
                 description={spectacle.description}
                 image={spectacle.image}
               />
-            )}
-
+            ))}
           </div>
           <h2>A partir de 19h</h2>
           <p>
-            Entrées : participation libre (Chacun donne ce qu’il veut ou ce qu’il
-            peut)
-        </p>
+            Entrées : participation libre (Chacun donne ce qu’il veut ou ce
+            qu’il peut)
+          </p> */}
           <div>
-            {groupes.map((groupe, index) =>
-              <Artiste groupe={groupe} key={index} />
-
-            )}
+            {groupes.map((groupe, index) => (
+              <Artiste groupe={groupe} index={index} key={index} />
+            ))}
           </div>
         </div>
       </InProgressChecker>

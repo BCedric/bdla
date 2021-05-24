@@ -1,32 +1,51 @@
 import React from 'react'
 
+import { Link } from 'react-router-dom'
+
 import Helmet from 'react-helmet'
 
 import { Slider } from 'react-materialize'
 
 import CustomSlide from 'CustomSlide'
 
-const image = require('./../img/accueil1.jpg')
-const image1 = require('./../img/accueil2.jpg')
-const image2 = require('./../img/accueil3.jpg')
-const image3 = require('./../img/accueil4.jpg')
-const image4 = require('./../img/accueil5.jpg')
+import image from './../img/accueil1.jpg'
+import image1 from './../img/accueil2.jpg'
+import image2 from './../img/accueil3.jpg'
+import image3 from './../img/accueil4.jpg'
+import image4 from './../img/accueil5.jpg'
 
-const affichebdla = require('./../img/affiche2020.jpg')
+import affichebdla from './../img/BDLA-canceled.jpg'
 
 export default function Accueil() {
-
   return (
-    <div >
-      < Helmet title="Accueil" />
+    <div>
+      <Helmet title="Accueil" />
       <h1>Bienvenue !</h1>
-      <p>
+      {/* <p>
         Biard dans les Airs est un festival où l'on croise la musique, la danse,
         le théâtre, la poésie, le cirque...
-      </p>
+      </p> */}
       <p>
-        Le site est ombragé, de nombreux spectacles auront lieu dans un petit bois. Vous serez mieux sur le site du festival que chez vous !!! Alors venez...
+        Cette année, Biard Dans Les Airs laisse place à Biard Dans Les Chaises.
+        Retrouvez la programmation du festival (
+        <Link className="nav-item unselectable" to="/vendredi">
+          vendredi
+        </Link>
+        ,{' '}
+        <Link className="nav-item unselectable" to="/samedi">
+          samedi
+        </Link>
+        ) et{' '}
+        <Link className="nav-item unselectable" to="/infos">
+          les informations
+        </Link>{' '}
+        concernant la reservation des concerts et spectacles.
       </p>
+      {/* <p>
+        Le site est ombragé, de nombreux spectacles auront lieu dans un petit
+        bois. Vous serez mieux sur le site du festival que chez vous !!! Alors
+        venez...
+      </p> */}
       <div className="affichebdla">
         <img alt="affichebdla" src={affichebdla} />
       </div>
@@ -44,6 +63,6 @@ export default function Accueil() {
           <CustomSlide img={image4} />
         </Slider>
       </div>
-    </div >
+    </div>
   )
 }

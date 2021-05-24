@@ -1,13 +1,13 @@
 import Helmet from 'react-helmet'
 import React from 'react'
 
-const franceBleue = require('./../img/franceBleu.png')
-const biard = require('./../img/biard-logo.gif')
+import franceBleue from './../img/franceBleu.png'
+import biard from './../img/biard-logo.gif'
 
 export default function Contact() {
   return (
-    <div >
-      < Helmet title="Contact" />
+    <div>
+      <Helmet title="Contact" />
       <h1>Contacts</h1>
       <ul className="contact-gille">
         <li>Gilles Morin</li>
@@ -15,7 +15,10 @@ export default function Contact() {
         <li>gilles.morin0305@gmail.com</li>
         <li>
           facebook:
-          <a className="contact-fb" href="https://www.facebook.com/biarddanslesairs">
+          <a
+            className="contact-fb"
+            href="https://www.facebook.com/biarddanslesairs"
+          >
             Festival Biard dans les airs
           </a>
         </li>
@@ -64,6 +67,6 @@ export default function Contact() {
           <img alt="Logo Biard" src={biard} />
         </div>
       </div>
-    </div >
+    </div>
   )
 }

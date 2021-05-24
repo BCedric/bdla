@@ -4,18 +4,18 @@ import { Slider } from 'react-materialize'
 
 import CustomSlide from 'CustomSlide'
 
-const image = require('./../img/festival1.jpg')
-const image1 = require('./../img/festival2.jpg')
-const image2 = require('./../img/festival3.jpg')
-const image3 = require('./../img/festival4.jpg')
-const image4 = require('./../img/festival5.jpg')
-const image5 = require('./../img/festival6.jpg')
+import image from './../img/festival1.jpg'
+import image1 from './../img/festival2.jpg'
+import image2 from './../img/festival3.jpg'
+import image3 from './../img/festival4.jpg'
+import image4 from './../img/festival5.jpg'
+import image5 from './../img/festival6.jpg'
 
 export default function Festival() {
   const anneeCourante = new Date().getFullYear()
   return (
-    <div >
-      < Helmet title="Festival" />
+    <div>
+      <Helmet title="Festival" />
       <h1>Le Festival</h1>
       <p>
         Le Festival est organisé par <i>Le Comité des fêtes</i> et les{' '}
@@ -44,6 +44,6 @@ export default function Festival() {
         envol festif. De plus en plus de monde prend l'habitude de venir pour y
         passer du bon temps.
       </p>
-    </div >
+    </div>
   )
 }

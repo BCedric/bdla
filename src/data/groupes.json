@@ -1,58 +1,69 @@
 {
-    "vendredi": [
-        {
-            "nom": "Les Tontons Zingueurs",
-            "facebook": "https: //fr-fr.facebook.com/Les-Tontons-Zingueurs-131561646946696/",
-            "site": "https: //tontonszingueurs.fr/",
-            "heure": null,
-            "description": "Il y a une bonne quarantaine d’années, leurs illustres prédécesseurs jouaient du flingue avec bonhomie pour notre plus grande joie. Eux jouent du cuivre et du zinc entre les morceaux, pour le plaisir de vos oreilles! Pas de distribution de marrons ou de pruneaux, mais de notes et d’accords bien sentis! Y’a pas de pomme, mais y’a d’la pêche ! C’est pas du brutal, mais faut quand même bien avouer qu’c’est plutôt une musique d’homme ! Quand les percus mitraillent à tout va et que les cuivres pulvérisent façon puzzle, les caves n’ont qu’à bien se tenir. Naviguant allègrement entre valses, funk et reggae, ces sept gaillards vous ferons vibrer sur des airs populaires aux accents de jazz.Et si, à l’issue du concert, vous leur demandez à quoi ils pensent en jouant, l’un d’eux vous répondra sûrement: « Ah! Montierneuf! On n’devrait jamais quitter Montierneuf! »",
-            "image": "./img/groupes/les-tontons-zingueurs.png"
-        },
-        {
-            "nom": "Bancal Cheri",
-            "facebook": "https://fr-fr.facebook.com/bancalcheri/",
-            "description": "Quatre bandits musiciens, désarmants et désarmés, se rencontrent par quatre chemins croisés. Loin des lignes droites et des routes déjà tracées, ils allument de petits feux. De doutes assumés en envies partagées, ils s’accueillent aux abords de leurs secrets. Aujourd’hui, parce qu’ils savent qu’ils ne sont pas obligés d’écrire et de composer ensemble, ils décident de le faire. Pour changer les habitudes, pour le plaisir des étreintes déstabilisantes, pour le vertige adoré et pour le bancal chéri.",
-            "image": "./img/groupes/Bancal-Cheri.jpg"
-        },
-        {
-            "nom": "La Belle Image",
-            "facebook": "https: //www.facebook.com/labelleimage/",
-            "site": "https: //www.labelleimagefanfare.com",
-            "heure": null,
-            "description": "L’orchestre se découvre : une fanfare, treize musiciens. « La Belle Image » dépose son lieu de fête.La machine à faire danser sonne le début du bal. La musique brûlante d’énergie est là, incitant à délier les corps… la fièvre monte et la transe enivre… le temps se suspend… irréalité où tout est permis. Laisserez - vous la danse prendre le contrôle de votre corps ?",
-            "image": "./img/groupes/la-belle-image.JPG"
-        }
-    ],
-    "samedi": [
-        {
-            "nom": "Motorcycle Show",
-            "facebook": null,
-            "site": "http: //www.virus-prod.com/agenda-des-productions/",
-            "heure": null,
-            "description": "Élevée au son des moteurs et des riffs de guitares, la fratrie Motorcycle Show distille une musique rock qui sent bon la sueur et l’huile de vidange.Juchés sur leurs bécanes à faire pâlir un fan de Harley, ces bikers périgourdins présentent un set rock’n’roll très 70’s. Jouant au sol ou bon leur semble, les trois motards alternent entre sketch, impro et rock crasseux, assurant la proximité avec le public.Les trois solex tunés et transformés en amplis guitare sauront vous faire vibrer les tympans au rythme de leurs riffs endiablés.",
-            "image": "./img/groupes/motorcycle-show.JPG"
-        },
-        {
-            "nom": "Cactus Riders",
-            "facebook": "https: //fr-fr.facebook.com/cactusriders/",
-            "site": "https: //www.cactus-riders.com",
-            "description": "Le show des CACTUS RIDERS est une véritable machine à remonter le temps ! Avec leur look, leurs instruments, leurs voix, ils ressuscitent avec une authentique énergie ces chansons des années 50 que l’on a tous en mémoire. Des plus jeunes aux plus anciens, voici une musique qui rassemble.Lorsqu'elle est incarnée par les CACTUS RIDERS, il est impossible de ne pas sentir ses chaussures partir dans toutes les directions, notamment celle de la piste, pour une danse libératrice.",
-            "image": "./img/groupes/cactus-riders.jpg"
-        },
-        {
-            "nom": "Tarmac Rodeo",
-            "facebook": "https: //fr-fr.facebook.com/tarmacrodeo/",
-            "site": "http: //tarmac-rodeo.com",
-            "heure": null,
-            "description": "Rod Lazar, Grand patron du cabaret et crooner grandiloquent, vous ouvre ses portes ! Place à un show dynamité avec une énergie communicative, qui ne laisse pas de répit ! Une section cuivre aux sonorités New Orleans, un saxophone baryton chauffé au free jazz, une guitare aux accents rock, une caisse claire dynamitée et une grosse caisse sacrément punchy… Et voici un métissage de sonorités décapantes à dominante swing. Pour parfaire l’ambiance, la fantasque Diva Lady Suzie, de sa voix mélodique et suave, vous emporte, c’est imparable: vos jambes vous démangent. Let’s swing !!!",
-            "image": "./img/groupes/tarmac-rodeo.jpg"
-        },
-        {
-            "nom": "Boris Viande",
-            "facebook": "http: //www.facebook.com/borisviande",
-            "site": "http: //www.vladproductions.fr/borisviande/",
-            "description": "Constamment tiraillé entre la musique traditionnelle vivante d'hier et la nouvelle scène electro- world de laptop producers, Boris passe souvent à tort pour un puriste issu d'une fanfare foutraque dans les soirées club, et pour un clubber technoïde en clôture d'un festival de musique du monde. C'est pourtant en refusant de choisir que Boris crée le lien entre les générations, entre les publics et entre les différentes scènes qu'il affectionne, des guinguettes aux clubs, des festivals punk aux bars de quartier.",
-            "image": "./img/groupes/boris-viande.jpg"
-        }
-    ]
+  "vendredi": [
+    {
+      "nom": "Oscar Fou",
+      "facebook": "https://www.facebook.com/oscarfoutrio/",
+      "site": "http://oscarfou.com/",
+      "heure": "17h",
+      "description": "Il est question d’un pou poilu et d’un croque-mitaine mangeur d’enfants. D’homme animal, de frangin assassin et de câlins de maman. Il est question des monstres, ceux de la nuit et ceux de la vie, Et de tous ces héros qui nous font devenir grands. Il est question de parents agacés, d’un enfant exilé et d’un petit prince apprivoisé. Ça raconte l’envie quand on est petit d’aller pêcher les étoiles, Et de celle, quand on est plus grand, de prendre la vie à rebrousse-poil. Tour à tour drôle ou poétique, ce trio nous invite à partager son univers intime et malicieux.",
+      "image": "visuel Oscar Fou HD.jpg"
+    },
+    {
+      "nom": "Les frères Charles",
+      "facebook": "https://www.facebook.com/lesfrerescharles/",
+      "site": "http://lesfrerescharles.com/",
+      "description": "Quoi de neuf ? Trenet, comme dirait l'autre. Longtemps après que le poète a disparu, ses chansons courent encore dans les rues. Eh bien, deux anges du bizarre vont essayer de les rattraper. Reprenant classiques et raretés, ils vous  proposent l'héritage infernal du plus moderne de nos anciens.  Pour démontrer, s'il le fallait encore, dans une ambiance loufoque et décontractée, que le Fou Chantant n'est pas fait pour les musées, mais bien pour amuser. Il suffit pour ça d'un peu d'imagination.",
+      "heure": "18h30",
+      "image": "5e6aeac0744f54f5048b472d.jpg"
+    },
+    {
+      "nom": "Les petites lèvres",
+      "facebook": "https://www.facebook.com/lespetiteslevres/",
+      "description": "Cinq filles pas tout à fait comme il faut se réapproprient des chansons, les triturent à leurs façon...et c'est bon ! Rn'B, Pop, Chanson française...tantôt irrévérencieuses ou émancipes. Vous les entendrez comme vous ne les avez jamais écoutées !",
+      "heure": "20h",
+      "image": "photo com Petites Lèvres - crédit Samuel Touzelin.JPG"
+    },
+    {
+      "nom": "Charanga Mestica",
+      "facebook": "https://www.facebook.com/La-Charanga-Mestica-1880840825526876/",
+      "site": "https: //www.labelleimagefanfare.com",
+      "heure": "21h30",
+      "description": "Après plus de 20 ans passés au service de la musique cubaine, la Charanga Mestica vous convie à la fête avec son nouveau quartet . Les companieros distillent un son unique à la fois empreint de modernité et de tradition , composé de chants , percussions, clavier , contrebasse , trombone ou flute et ... machines . C’est une sauce épicée qui oscille entre le son cubain et la timba , un cocktail à consommer sans modération !!",
+      "image": "la-charanga-mestica-affiche (1).jpg"
+    }
+  ],
+  "samedi": [
+    {
+      "nom": "Cie Humains gauches : les raisins de la connerie",
+      "facebook": null,
+      "site": "https://www.facebook.com/HumainsGauches",
+      "heure": "17h",
+      "description": "Plexus, professeur itinérant s’est engagé dans l’éducation comme on part pour un long voyage, sans trop de bagages mais avec une liberté de pensée et une pédagogie active qui éveille notre esprit critique. Il arrive avec son tableau à roulettes pour profiter de cet espace libre et de ce public curieux et conscient des enjeux de l’instruction pour donner un cours buissonnier.  Une méthode pédagogique adaptée à la rue avec des références allant de Tom Sawyer à Michel Fugain en passant par Marignan et la relativité. Une opportunité pour le professeur Plexus de s’interroger sur les enjeux de l’éducation et les conditions de notre liberté.",
+      "image": "humains-gauches.jpg"
+    },
+    {
+      "nom": "Obscur Feuillage",
+      "facebook": "https://www.facebook.com/obscurfeuillage/",
+      "heure": "18h30",
+      "site": "https://obscurprod.com/feuillage/",
+      "description": "Obscur Feuillage est le Don Quichotte de la chanson, dans la lignée de la grande Anne Sylvestre ou de Renaud à ses débuts, en perpétuelle croisade contre nos deux ennemis : la déprime solitaire et le libéralisme économique ! Armé de sa guitare et soutenu par Varenfel, un couteau-suisse musical qui le sort de toutes les situations, ce troubadour hystérique sillonne les routes du monde francophone et livre des concerts poétiques et drôles, à la limite du clown ou du One Man Show.",
+      "image": "tete_main_obscurf.jpg"
+    },
+    {
+      "nom": "Trilili Ladies and Dandies",
+      "facebook": null,
+      "site": "https://www.trilililadies.com/",
+      "heure": "20h",
+      "description": "Composé d'un trio vocal féminin, d'un pianiste et d'un contrebassiste, les \"Trilili Ladies & Dandies\" est un quintet jazz s'inspirant de grandes figures musicales des années 30 à 60 : The Andrews Sisters, Cab Calloway, Ella Fitzgerald, Rose Murphy, The Boswell Sisters et bien d'autres. Oscillant entre un swing endiablé et les harmonies suaves et nostalgiques d'une époque fantasmée, ces cinq artistes vous offrent une parenthèse musicale en plein coeur du jazz américain.",
+      "image": "Visuel Album Crazy People - Trilili Ladies _ Dandies.jpeg"
+    },
+    {
+      "nom": "BlueSoul Family",
+      "facebook": "https://www.facebook.com/bluesoul.family",
+      "heure": "21h30h",
+      "site": null,
+      "description": "C’est avec leur Mount’n’Grass Music que la “BSF” se fixe comme mission de vous faire passer une superbe soirée en Musique. Old time, Mountain Folk, Bluegrass puis le chant des esclaves, le blues, lentement se teinte de liberté, de rythme et c’est la Soul qui ouvre la voie à toute la musique moderne. Une formation Musicale à géométrie variable, 3 à 6 musiciens.",
+      "image": "photo.jpg"
+    }
+  ]
 }
