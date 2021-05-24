@@ -52,14 +52,12 @@ export default function Infos() {
       </p>
       <h2>Venir au festival</h2>
       <p>Le festival a lieu devant la Mairie de Biard.</p>
-      <p>
-        <div>
-          <img alt="Plan Poitiers" src={plan1} />
-        </div>
-        <div>
-          <img alt="Plan site" src={PlanSite} />
-        </div>
-      </p>
+      <div>
+        <img alt="Plan Poitiers" src={plan1} />
+      </div>
+      <div>
+        <img alt="Plan site" src={PlanSite} />
+      </div>
       <div>
         <p>
           <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume
