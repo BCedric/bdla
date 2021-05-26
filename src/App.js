@@ -1,4 +1,4 @@
-import React, { Component, useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Route, Switch, HashRouter } from 'react-router-dom'
 
 import Accueil from './Components/Accueil.js'
@@ -33,7 +33,7 @@ const App = () => {
     <HashRouter>
       <Helmet titleTemplate="%s | Biard dans les airs" />
       <Header toggleSideMenu={toggleSideMenu} />
-      <Parallax strength={300} bgImage={image}>
+      <Parallax strength={1500} bgImage={image}>
         <SideMenu
           hidden={hideSideMenu}
           close={() => setHideSideMenu(true)}
