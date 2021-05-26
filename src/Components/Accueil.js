@@ -4,8 +4,6 @@ import { Link } from 'react-router-dom'
 
 import Helmet from 'react-helmet'
 
-import CustomSlide from 'CustomSlide'
-
 import image from './../img/accueil1.jpg'
 import image1 from './../img/accueil2.jpg'
 import image2 from './../img/accueil3.jpg'
