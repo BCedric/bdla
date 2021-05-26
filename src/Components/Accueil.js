@@ -14,7 +14,7 @@ import image4 from './../img/accueil5.jpg'
 
 import Carousel from 'Carousel'
 
-import affichebdla from './../img/BDLA-canceled.jpg'
+import affichebdla from './../img/affiche_bdlc.png'
 
 export default function Accueil() {
   return (
