@@ -13,4 +13,32 @@
   .nav-item {
     padding: 0 2em;
   }
+
+  .navbar {
+    ul {
+      padding-left: 0;
+      list-style-type: none;
+      margin: 0;
+      li {
+        list-style-type: none;
+        transition: background-color 0.3s;
+        float: left;
+        padding: 0;
+        line-height: 64px;
+
+        a {
+          padding: 0 2em;
+          -webkit-transition: background-color 0.3s;
+          transition: background-color 0.3s;
+          font-size: 1rem;
+          color: #fff;
+          display: block;
+          cursor: pointer;
+          &:hover {
+            background-color: rgba(0, 0, 0, 0.1);
+          }
+        }
+      }
+    }
+  }
 }

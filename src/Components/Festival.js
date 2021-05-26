@@ -1,8 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import { Slider } from 'react-materialize'
 
-import CustomSlide from 'CustomSlide'
+import Carousel from 'Carousel'
 
 import image from './../img/festival1.jpg'
 import image1 from './../img/festival2.jpg'
@@ -26,16 +25,9 @@ export default function Festival() {
         Terrasse bois, Garage Pictave, Espace 3, Cluricaume, Aéroport de Biard,
         Durand menuiserie, Robichon Laser, Crédit Agricole).
       </p>
-      <div className="container">
-        <Slider interval={3000}>
-          <CustomSlide img={image} />
-          <CustomSlide img={image1} />
-          <CustomSlide img={image2} />
-          <CustomSlide img={image3} />
-          <CustomSlide img={image4} />
-          <CustomSlide img={image5} />
-        </Slider>
-      </div>
+      <Carousel
+        images={[image, image1, image2, image3, image4, image5]}
+      ></Carousel>
       <p>
         Voilà maintenant {anneeCourante - 2005} ans que le festival s'installe
         au centre de Biard. Biard dans les Airs est né d'une volonté de partager

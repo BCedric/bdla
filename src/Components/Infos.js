@@ -11,24 +11,13 @@ export default function Infos() {
     <div className="infos">
       <Helmet title="Infos" />
       <h1>Informations pratiques</h1>
-      {/* <h2>Manger et boire</h2>
-      <p>
-        Le Bar à Noj est ouvert pendant tout le festival (bière, vins, sodas,
-        jus de fruits équitable/bio/du coin, etc). Vous y trouverez à manger et
-        à boire, pour les petites et grandes faims. Pendant tout le festival :
-        grillades/frites, crêpes
-      </p>
-      {repasData.vendredi != null && repasData.samedi != null && (
-        <p>
-          Et en plus :
-          <ul>
-            <li>Vendredi soir : {repasData.vendredi}</li>
-            <li>Samedi soir : {repasData.samedi}</li>
-          </ul>
-        </p>
-      )} */}
-      <p>Distributeur de billet le plus proche : Poitiers(Montmidi).</p>
+
+      <p>Distributeur : Crédit agricole Quartier Montmidi</p>
       <h2>Réservations</h2>
+      <p>
+        Entrées : participation libre. Chacun donne ce qu’il veut ou ce qu’il
+        peut.
+      </p>
       <h3>Jauge limitée par spectacle</h3>
       <p>
         Afin de permettre au plus grand nombre de pouvoir assister à notre
@@ -50,6 +39,36 @@ export default function Infos() {
         Mercredi 23 et jeudi 24 juin de 17h à 19h.
         <br /> Vendredi 25 et samedi 26 juin de 10h à 12h.
       </p>
+      <h2>Manger et boire</h2>
+      <p>Le bar à Noj sera ouvert si autorisation.</p>
+      <p>
+        Pas d’alimentation sur le site du festival. Possibilité de se restaurer
+        à 200 mètres :
+      </p>
+      <p>
+        - Le Fournil de Biard : Sandwich, Gramoudou, Gâteaux, glaces …. le
+        vendredi jusqu’ à 20h dans le centre Bourg et le samedi après midi à
+        l’aéroport de Biard
+      </p>
+      <p>
+        - L’Atelier du croque : croque monsieur, Burgers sur place ou à emporter
+        ouvert le vendredi et le samedi à partir de 19h{' '}
+      </p>
+      {/* <p>
+        Le Bar à Noj est ouvert pendant tout le festival (bière, vins, sodas,
+        jus de fruits équitable/bio/du coin, etc). Vous y trouverez à manger et
+        à boire, pour les petites et grandes faims. Pendant tout le festival :
+        grillades/frites, crêpes
+      </p>
+      {repasData.vendredi != null && repasData.samedi != null && (
+        <p>
+          Et en plus :
+          <ul>
+            <li>Vendredi soir : {repasData.vendredi}</li>
+            <li>Samedi soir : {repasData.samedi}</li>
+          </ul>
+        </p>
+      )} */}
       <h2>Venir au festival</h2>
       <p>Le festival a lieu devant la Mairie de Biard.</p>
       <div>

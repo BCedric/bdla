@@ -4,8 +4,6 @@ import { Link } from 'react-router-dom'
 
 import Helmet from 'react-helmet'
 
-import { Slider } from 'react-materialize'
-
 import CustomSlide from 'CustomSlide'
 
 import image from './../img/accueil1.jpg'
@@ -13,6 +11,8 @@ import image1 from './../img/accueil2.jpg'
 import image2 from './../img/accueil3.jpg'
 import image3 from './../img/accueil4.jpg'
 import image4 from './../img/accueil5.jpg'
+
+import Carousel from 'Carousel'
 
 import affichebdla from './../img/BDLA-canceled.jpg'
 
@@ -54,14 +54,8 @@ export default function Accueil() {
         l'occasion. Vous pourrez passer deux jours à vous remplir les yeux et
         les oreilles de mille et une façons !
       </p>
-      <div className="container">
-        <Slider interval={5000}>
-          <CustomSlide img={image} />
-          <CustomSlide img={image1} />
-          <CustomSlide img={image2} />
-          <CustomSlide img={image3} />
-          <CustomSlide img={image4} />
-        </Slider>
+      <div>
+        <Carousel images={[image, image1, image2, image3, image4]}></Carousel>
       </div>
     </div>
   )

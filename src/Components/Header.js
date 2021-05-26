@@ -1,35 +1,47 @@
-import React, { Component, useRef } from 'react'
+import React from 'react'
 import { Link } from 'react-router-dom'
-import { Navbar } from 'react-materialize'
 
+import useWindowDimensions from 'useWindowDimensions'
 import imgbdla from './../img/bandeau.png'
 
-const Header = () => {
+const routes = [
+  { label: 'Accueil', route: '/' },
+  { label: 'Festival', route: '/festival' },
+  { label: 'Vendredi', route: '/vendredi' },
+  { label: 'Samedi', route: '/samedi' },
+  { label: 'Infos', route: '/infos' },
+  { label: 'Contact', route: '/contact' }
+]
+
+const Header = ({ toggleSideMenu }) => {
+  const { width } = useWindowDimensions()
+
+  const isSmallScreen = width < 768
+
   return (
     <div className="header">
       <Link className="unselectable" to="/">
         <img src={imgbdla} className="imgbdla" alt="" />
       </Link>
-      <Navbar className="navbar light-green darken-3">
-        <Link className="nav-item unselectable" to="/">
-          Accueil
-        </Link>
-        <Link className="nav-item unselectable" to="/festival">
-          Festival
-        </Link>
-        <Link className="nav-item unselectable" to="/vendredi">
-          Vendredi
-        </Link>
-        <Link className="nav-item unselectable" to="/samedi">
-          Samedi
-        </Link>
-        <Link className="nav-item unselectable" to="/infos">
-          Infos
-        </Link>
-        <Link className="nav-item unselectable" to="/contact">
-          Contact
-        </Link>
-      </Navbar>
+
+      <nav position="static" className="navbar light-green darken-3">
+        {isSmallScreen ? (
+          <span className="material-icons clickable" onClick={toggleSideMenu}>
+            menu
+          </span>
+        ) : (
+          <ul>
+            {routes.map((route, index) => (
+              <li key={index}>
+                {' '}
+                <Link className="nav-item unselectable" to={route.route}>
+                  {route.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        )}
+      </nav>
     </div>
   )
 }

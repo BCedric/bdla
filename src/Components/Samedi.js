@@ -44,11 +44,11 @@ export default function Samedi() {
               />
             ))}
           </div>
-          <h2>A partir de 19h</h2>
+          <h2>A partir de 19h</h2>*/}
           <p>
             Entrées : participation libre (Chacun donne ce qu’il veut ou ce
             qu’il peut)
-          </p> */}
+          </p>
           <div>
             {groupes.map((groupe, index) => (
               <Artiste groupe={groupe} index={index} key={index} />
