@@ -10,7 +10,7 @@
   "dependencies": {
     "@splidejs/react-splide": "^0.4.4",
     "moment": "^2.29.1",
-    "node-sass": "^6.0.0",
+    "node-sass": "^7.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-helmet": "^6.1.0",
