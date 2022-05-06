@@ -13,34 +13,37 @@ export default function Infos() {
       <h1>Informations pratiques</h1>
 
       <p>Distributeur : Crédit agricole Quartier Montmidi</p>
-      <h2>Réservations</h2>
+      <h2>Entrées</h2>
       <p>
         Entrées : participation libre. Chacun donne ce qu’il veut ou ce qu’il
         peut.
       </p>
-      <h3>Jauge limitée par spectacle</h3>
+      {/* <h3>Jauge limitée par spectacle</h3>
       <p>
         Afin de permettre au plus grand nombre de pouvoir assister à notre
         festival, vous ne pouvez réserver au maximum que deux spectacles ( 1 par
         jour)
-      </p>
-      <h3>
+      </p> */}
+      {/* <h3>
         Réservation obligatoire par téléphone ou sms à partir du mercredi 9 juin
         à 17h .
-      </h3>
-      <p>
-        06 20 71 69 83 <br />
-        Nous vous confirmerons la réservation par téléphone ou SMS
-      </p>
-      <h3>Permanences pour Informations et réservations :</h3>
+      </h3> */}
+      {/* <p>
+        06 20 71 69 83
+        
+      </p> */}
+      {/* <h3>Permanences pour Informations et réservations :</h3>
       <p>
         Mercredi 9 et jeudi 10 Juin de 17h à 19h
         <br /> Mercredi 16 et jeudi 17 juin de 17h à 19h <br />
         Mercredi 23 et jeudi 24 juin de 17h à 19h.
         <br /> Vendredi 25 et samedi 26 juin de 10h à 12h.
-      </p>
+      </p> */}
       <h2>Manger et boire</h2>
-      <p>Le bar à Noj sera ouvert si autorisation.</p>
+      <p>
+        Le "bar à Noj" et "Chez Tata Veve", le bar à Vin ouverts pendant tout le
+        festival.
+      </p>
       <p>
         Pas d’alimentation sur le site du festival. Possibilité de se restaurer
         à 200 mètres :

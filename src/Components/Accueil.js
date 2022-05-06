@@ -12,32 +12,16 @@ import image4 from './../img/accueil5.jpg'
 
 import Carousel from 'Carousel'
 
-import affichebdla from './../img/affiche_bdlc.png'
+import affichebdla from './../img/affiche-BDA-2022.jpg'
 
 export default function Accueil() {
   return (
     <div>
       <Helmet title="Accueil" />
       <h1>Bienvenue !</h1>
-      {/* <p>
+      <p>
         Biard dans les Airs est un festival où l'on croise la musique, la danse,
         le théâtre, la poésie, le cirque...
-      </p> */}
-      <p>
-        Cette année, Biard Dans Les Airs laisse place à Biard Dans Les Chaises.
-        Retrouvez la programmation du festival (
-        <Link className="nav-item unselectable" to="/vendredi">
-          vendredi
-        </Link>
-        ,{' '}
-        <Link className="nav-item unselectable" to="/samedi">
-          samedi
-        </Link>
-        ) et{' '}
-        <Link className="nav-item unselectable" to="/infos">
-          les informations
-        </Link>{' '}
-        concernant la reservation des concerts et spectacles.
       </p>
       {/* <p>
         Le site est ombragé, de nombreux spectacles auront lieu dans un petit

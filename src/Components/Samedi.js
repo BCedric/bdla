@@ -18,17 +18,16 @@ export default function Samedi() {
 
       <InProgressChecker>
         <div>
-          {/* <div className="animations-continues">
+          <div className="animations-continues">
             <div>
               <p>Tout l'après-midi, les animations suivantes en continu:</p>
               <ul>
                 <li>Le studio photo animé par le club photo de Biard</li>
+                <li>Expositions</li>
                 <li>Atelier maquillage</li>
                 <li>Jeux en bois et jeux coopératifs</li>
-                <li>Espace détente</li>
+                <li>Atelier peinture-profil</li>
                 <li>Massage</li>
-                <li>Magie</li>
-                <li>Smoothies Biard Tour</li>
               </ul>
             </div>
           </div>
@@ -44,7 +43,7 @@ export default function Samedi() {
               />
             ))}
           </div>
-          <h2>A partir de 19h</h2>*/}
+          <h2>A partir de 19h</h2>
           <p>
             Entrées : participation libre (Chacun donne ce qu’il veut ou ce
             qu’il peut)

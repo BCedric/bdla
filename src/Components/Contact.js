@@ -7,9 +7,8 @@ export default function Contact() {
       <Helmet title="Contact" />
       <h1>Contact</h1>
       <ul className="contact-gille">
-        {/* <li>Gilles Morin</li> */}
-        <li>06 20 71 69 83</li>
-        {/* <li>gilles.morin0305@gmail.com</li> */}
+        <li>Gilles Morin : 06 20 71 69 83</li>
+        <li>bdlabiard@gmail.com</li>
         <li>
           facebook:
           <a
