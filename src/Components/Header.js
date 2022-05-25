@@ -10,6 +10,8 @@ const routes = [
   { label: 'Vendredi', route: '/vendredi' },
   { label: 'Samedi', route: '/samedi' },
   { label: 'Infos', route: '/infos' },
+  { label: 'Remerciements', route: '/remerciements' },
+  { label: 'Partenaires', route: '/partenaires' },
   { label: 'Contact', route: '/contact' }
 ]
 

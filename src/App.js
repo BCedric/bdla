@@ -15,6 +15,8 @@ import image from './img/bdla.png'
 import SideMenu from './Components/SideMenu.js'
 
 import useWindowDimensions from 'useWindowDimensions'
+import Remerciements from './Components/Remerciements.js'
+import Partenaires from './Components/Partenaires.js'
 
 const App = () => {
   const [hideSideMenu, setHideSideMenu] = useState(true)
@@ -46,7 +48,8 @@ const App = () => {
             <Route path="/infos" component={Infos} />
             <Route path="/samedi" component={Samedi} />
             <Route path="/vendredi" component={Vendredi} />
-            <Route path="/groupe/" component={Vendredi} />
+            <Route path="/remerciements" component={Remerciements} />
+            <Route path="/partenaires" component={Partenaires} />
             <Route component={NoMatchRoute} />
           </Switch>
         </div>

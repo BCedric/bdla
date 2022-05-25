@@ -16,18 +16,7 @@ export default function Festival() {
     <div>
       <Helmet title="Festival" />
       <h1>Le Festival</h1>
-      <p>
-        Le Festival est organisé par <i>Le Comité des fêtes</i> et les{' '}
-        <i>Ateliers Musicaux de Biard</i> et vit par la force d'un bon paquet de
-        bénévoles et par le partenariat d'institutions publiques (mairie de
-        Biard, Grand Poitiers, Conseil départemental) et d'entreprises privées
-        (Fournil de Biard, bakertilly STEGO, Huet Boucherie, Bouchet Frères,
-        Terrasse bois, Garage Pictave, Espace 3, Cluricaume, Aéroport de Biard,
-        Durand menuiserie, Robichon Laser, Crédit Agricole).
-      </p>
-      <Carousel
-        images={[image, image1, image2, image3, image4, image5]}
-      ></Carousel>
+
       <p>
         Voilà maintenant {anneeCourante - 2005} ans que le festival s'installe
         au centre de Biard. Biard dans les Airs est né d'une volonté de partager
@@ -36,6 +25,9 @@ export default function Festival() {
         envol festif. De plus en plus de monde prend l'habitude de venir pour y
         passer du bon temps.
       </p>
+      <Carousel
+        images={[image, image1, image2, image3, image4, image5]}
+      ></Carousel>
     </div>
   )
 }

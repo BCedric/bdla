@@ -3,12 +3,17 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
   .spectacle-body {
     padding: 1em 0;
     display: flex;
     flex-direction: row;
     align-items: center;
     box-sizing: content-box;
+
+    @media screen and (max-width: 768px) {
+      flex-direction: column;
+    }
 
     .spectacle-header {
       margin-bottom: 0.2em;
@@ -25,6 +30,9 @@
     }
 
     .spectacle-image {
+      @media screen and (max-width: 768px) {
+        max-width: 100%;
+      }
       max-width: 50%;
       max-height: 500px;
       margin: 0.5em 0;

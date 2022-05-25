@@ -18,60 +18,17 @@ export default function Infos() {
         Entrées : participation libre. Chacun donne ce qu’il veut ou ce qu’il
         peut.
       </p>
-      {/* <h3>Jauge limitée par spectacle</h3>
-      <p>
-        Afin de permettre au plus grand nombre de pouvoir assister à notre
-        festival, vous ne pouvez réserver au maximum que deux spectacles ( 1 par
-        jour)
-      </p> */}
-      {/* <h3>
-        Réservation obligatoire par téléphone ou sms à partir du mercredi 9 juin
-        à 17h .
-      </h3> */}
-      {/* <p>
-        06 20 71 69 83
-        
-      </p> */}
-      {/* <h3>Permanences pour Informations et réservations :</h3>
-      <p>
-        Mercredi 9 et jeudi 10 Juin de 17h à 19h
-        <br /> Mercredi 16 et jeudi 17 juin de 17h à 19h <br />
-        Mercredi 23 et jeudi 24 juin de 17h à 19h.
-        <br /> Vendredi 25 et samedi 26 juin de 10h à 12h.
-      </p> */}
       <h2>Manger et boire</h2>
       <p>
         Le "bar à Noj" et "Chez Tata Veve", le bar à Vin ouverts pendant tout le
         festival.
       </p>
       <p>
-        Pas d’alimentation sur le site du festival. Possibilité de se restaurer
-        à 200 mètres :
+        Vous y trouverez de quoi manger et boire, pour les petites et grandes
+        faims
       </p>
-      <p>
-        - Le Fournil de Biard : Sandwich, Gramoudou, Gâteaux, glaces …. le
-        vendredi jusqu’ à 20h dans le centre Bourg et le samedi après midi à
-        l’aéroport de Biard
-      </p>
-      <p>
-        - L’Atelier du croque : croque monsieur, Burgers sur place ou à emporter
-        ouvert le vendredi et le samedi à partir de 19h{' '}
-      </p>
-      {/* <p>
-        Le Bar à Noj est ouvert pendant tout le festival (bière, vins, sodas,
-        jus de fruits équitable/bio/du coin, etc). Vous y trouverez à manger et
-        à boire, pour les petites et grandes faims. Pendant tout le festival :
-        grillades/frites, crêpes
-      </p>
-      {repasData.vendredi != null && repasData.samedi != null && (
-        <p>
-          Et en plus :
-          <ul>
-            <li>Vendredi soir : {repasData.vendredi}</li>
-            <li>Samedi soir : {repasData.samedi}</li>
-          </ul>
-        </p>
-      )} */}
+      <p>Pendant tout le festival : salades, grillages, frites, crêpes</p>
+      <p>CB acceptée</p>
       <h2>Venir au festival</h2>
       <p>Le festival a lieu devant la Mairie de Biard.</p>
       <div>

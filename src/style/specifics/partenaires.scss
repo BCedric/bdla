@@ -1,0 +1,20 @@
+.partenaires {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+  }
+
+  .partenaire-text {
+    width: 200px;
+    font-size: 2em;
+    text-align: center;
+    margin: 10px;
+    font-weight: bold;
+  }
+}
