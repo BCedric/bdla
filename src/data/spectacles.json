@@ -1,30 +1,11 @@
 [
   {
-    "titre": "Le trio des mômes",
-    "description": "Un tapis en moumoute, des sons comme des gouttes d’eau sur la chaleur de l’enfance. Puis trois personnages émergent entre ordinaire et extraordinaire. Elles jouent de leurs voix, de leurs corps, de leurs instruments, elles jouent avec la poésie de l’enfance, son humour, sa petite folie. Tous embarquent dans le train où vont les choses, billet pas cher, destination bien connue...... bonheur garanti. Le miracle de la musique opère dans les oreilles écarquillées de ces quelques mois de vie. Plaisir unique dans les deux camps !",
-    "heure": "14h",
-    "image": "./img/spectacles/imageTrioMomes.jpg"
+    "titre": "Le défi pirate",
+    "description": "Spectacle de rue circassien par L’Intrépide et Cie. Après une longue épopée à travers les mers et les océans, Lady Trafalgar et son fidèle acolyte, Long John Taverne viennent jeter l'ancre à Biard! Rejoignez leur équipage pour une folle aventure !",
+    "image": "./img/spectacles/pirate.JPG"
   },
   {
-    "titre": "Les enfants de l'école de Biard",
-    "heure": "14h45"
-  },
-  {
-    "titre": "Le bal des enfants avec le Duo Vrignault-Barbeau",
-    "description": "Cela fait maintenant plusieurs années que Perrine Vrignault, chanteuse et accordéoniste, explore le chant traditionnel poitevin avec une fraîcheur déconcertante. Le duo Barbeau/Vrignault vous propose de venir danser sur des airs traditionnels du Poitou  adaptés aux enfants mais aussi à leurs parents.",
-    "image": "./img/spectacles/photo Duo Vrignault Barbeau.jpg"
-  },
-  {
-    "titre": "Atelier danse",
-    "heure": "16h"
-  },
-  {
-    "titre": "Ecole de musique Symphonie"
-  },
-  {
-    "titre": "Les majorettes étoiles argentées"
-  },
-  {
-    "titre": "Lutherie Selektif"
+    "titre": "La fanfare en plastic - Les habitants du doute",
+    "description": "La fanfare en plastic est toujours là. Ses nombreux musicien-nes et chanteur-euses ont toujours l’envie d’être ensemble et d’y croire. Un univers festif, des chansons, du théâtre, de la poésie autour d’un repertoire varié qui donne à réfléchir. En 1 heure, entre doutes et certitudes, les chansons de Moustaki, Mano Solo, Anne Sylvestre, Ridan, France Gall, Debout sur le zinc…..vous donneront rires, émotions, révoltes, et plus que jamais l’envie d’émancipation et de liberté."
   }
 ]

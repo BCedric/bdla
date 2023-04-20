@@ -12,23 +12,25 @@ export default function Infos() {
       <Helmet title="Infos" />
       <h1>Informations pratiques</h1>
 
-      <p>Distributeur : Crédit agricole Quartier Montmidi</p>
       <h2>Entrées</h2>
       <p>
         Entrées : participation libre. Chacun donne ce qu’il veut ou ce qu’il
         peut.
       </p>
+      <p>Distributeur : Crédit agricole Quartier Montmidi</p>
+      <p>Le festival accepte les Cartes Bancaires</p>
       <h2>Manger et boire</h2>
       <p>
-        Le "bar à Noj" et "Chez Tata Veve", le bar à Vin ouverts pendant tout le
+        Le "bar à Noj" et le bar à Vin sont ouverts pendant tout le
         festival.
       </p>
       <p>
         Vous y trouverez de quoi manger et boire, pour les petites et grandes
         faims
       </p>
-      <p>Pendant tout le festival : salades, grillages, frites, crêpes</p>
+      <p>Pendant tout le festival : salades, plat, grillades, frites, crêpes</p>
       <p>CB acceptée</p>
+      <p>Distributeur : Crédit agricole Quartier Montmid</p>
       <h2>Venir au festival</h2>
       <p>Le festival a lieu devant la Mairie de Biard.</p>
       <div>

@@ -14,7 +14,7 @@ export default function Samedi() {
     <div>
       <Helmet title="Samedi" />
 
-      <h1>Programmation du Samedi 26 Juin</h1>
+      <h1>Programmation du Samedi 24 Juin</h1>
 
       <InProgressChecker>
         <div>
@@ -23,15 +23,14 @@ export default function Samedi() {
               <p>Tout l'après-midi, les animations suivantes en continu:</p>
               <ul>
                 <li>Le studio photo animé par le club photo de Biard</li>
-                <li>Expositions</li>
                 <li>Atelier maquillage</li>
                 <li>Jeux en bois et jeux coopératifs</li>
-                <li>Atelier peinture-profil</li>
                 <li>Massage</li>
               </ul>
             </div>
           </div>
           <h2>A partir de 14h</h2>
+          <p>La fanfare en plastic animera l’après-midi du samedi avec ses “Fanfaronnades”.</p>
           <div className="prog-spectacles">
             {spectacles.map((spectacle, index) => (
               <Spectacle

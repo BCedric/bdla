@@ -16,9 +16,16 @@
     }
 
     .spectacle-header {
+      display: flex;
+      flex-direction: column;
       margin-bottom: 0.2em;
       // font-size: 1.2em;
       flex: 1;
+
+      .spectacle-title {
+        margin: 0.5em;
+        font-weight: bold;
+      }
 
       .spectacle-timing {
         font-weight: bold;

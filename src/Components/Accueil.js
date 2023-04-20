@@ -1,7 +1,5 @@
 import React from 'react'
 
-import { Link } from 'react-router-dom'
-
 import Helmet from 'react-helmet'
 
 import image from './../img/accueil1.jpg'
@@ -12,7 +10,7 @@ import image4 from './../img/accueil5.jpg'
 
 import Carousel from 'Carousel'
 
-import affichebdla from './../img/affiche-BDA-2022.jpg'
+import affichebdla from './../img/affiche-2023.png'
 
 export default function Accueil() {
   return (
