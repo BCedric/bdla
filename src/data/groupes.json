@@ -3,7 +3,9 @@
     {
       "nom": "Yellow Bounce",
       "site": "https://www.yellowbounce.fr/dates",
-      "facebook": "https://www.facebook.com/YellowBounce/"
+      "facebook": "https://www.facebook.com/YellowBounce/",
+      "description": "Yellow Bounce proposera une musique placée sous le signe du jazz New Orleans. Un répertoire essentiellement basé sur les morceaux composés ou joués par Sidney Bechet et que les musiciens, pour l'occasion, joueront en sextet. Une formule fanfare acoustique et semi déambulatoire, Yellow Bounce promet de ravir le public de Biard dans les Airs.",
+      "image": "Yellow Bounce.jpg"
     },
     {
       "nom": "Ticket to Swing",
