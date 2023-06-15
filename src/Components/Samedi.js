@@ -22,7 +22,7 @@ export default function Samedi() {
             <div>
               <p>Tout l'après-midi, les animations suivantes en continu:</p>
               <ul>
-                <li>Le studio photo animé par le club photo de Biard</li>
+                <li>Le studio photo</li>
                 <li>Atelier maquillage</li>
                 <li>Jeux en bois et jeux coopératifs</li>
                 <li>Massage</li>
@@ -30,7 +30,10 @@ export default function Samedi() {
             </div>
           </div>
           <h2>A partir de 14h</h2>
-          <p>La fanfare en plastic animera l’après-midi du samedi avec ses “Fanfaronnades”.</p>
+          <p>
+            La fanfare en plastic animera l’après-midi du samedi avec ses
+            “Fanfaronnades”.
+          </p>
           <div className="prog-spectacles">
             {spectacles.map((spectacle, index) => (
               <Spectacle

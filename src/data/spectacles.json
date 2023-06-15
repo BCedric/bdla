@@ -1,11 +1,31 @@
 [
   {
+    "titre": "Les enfants de l'école élémentaire de Biard",
+    "description": "présentent un travail artistique mené par Paul Paitel et Eric Proud",
+    "heure": "14h"
+  },
+  {
+    "titre": "Atelier danse",
+    "description": "L'association de Dans de Biard présente des extraits de leurs nouvelles chorégraphies 2023, en hip-hop et contemporain",
+    "heure": "14h45"
+  },
+  {
     "titre": "Le défi pirate",
     "description": "Spectacle de rue circassien par L’Intrépide et Cie. Après une longue épopée à travers les mers et les océans, Lady Trafalgar et son fidèle acolyte, Long John Taverne viennent jeter l'ancre à Biard! Rejoignez leur équipage pour une folle aventure !",
-    "image": "./img/spectacles/pirate.JPG"
+    "image": "./img/spectacles/pirate.JPG",
+    "heure": "15h30"
   },
   {
     "titre": "La fanfare en plastic - Les habitants du doute",
-    "description": "La fanfare en plastic est toujours là. Ses nombreux musicien-nes et chanteur-euses ont toujours l’envie d’être ensemble et d’y croire. Un univers festif, des chansons, du théâtre, de la poésie autour d’un repertoire varié qui donne à réfléchir. En 1 heure, entre doutes et certitudes, les chansons de Moustaki, Mano Solo, Anne Sylvestre, Ridan, France Gall, Debout sur le zinc…..vous donneront rires, émotions, révoltes, et plus que jamais l’envie d’émancipation et de liberté."
+    "description": "La fanfare en plastic est toujours là. Ses nombreux musicien-nes et chanteur-euses ont toujours l’envie d’être ensemble et d’y croire. Un univers festif, des chansons, du théâtre, de la poésie autour d’un repertoire varié qui donne à réfléchir. En 1 heure, entre doutes et certitudes, les chansons de Moustaki, Mano Solo, Anne Sylvestre, Ridan, France Gall, Debout sur le zinc…..vous donneront rires, émotions, révoltes, et plus que jamais l’envie d’émancipation et de liberté.",
+    "heure": "18h"
+  },
+  {
+    "titre": "Les fanfaronnades",
+    "description": "de la Fanfare en Plastic animeront l'après-midi"
+  },
+  {
+    "titre": "Lutherie Selektif",
+    "description": "Dispositif de scupltures sonores faites d'objets récupérés ou détournés. Le public (adultes et enfants) est convié à explorer et jouer"
   }
 ]
