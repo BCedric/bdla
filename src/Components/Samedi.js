@@ -1,12 +1,12 @@
 import Artiste from 'Artiste'
-import Helmet from 'react-helmet'
 import React from 'react'
+import Helmet from 'react-helmet'
 
 import InProgressChecker from 'InProgressChecker'
 
 import Spectacle from 'Spectacle'
 
-import { samedi as groupes } from '../data/groupes.json'
+import prog from '../data/groupes.json'
 import spectacles from '../data/spectacles.json'
 
 export default function Samedi() {
@@ -51,7 +51,7 @@ export default function Samedi() {
             qu’il peut)
           </p>
           <div>
-            {groupes.map((groupe, index) => (
+            {prog.samedi.map((groupe, index) => (
               <Artiste groupe={groupe} index={index} key={index} />
             ))}
           </div>

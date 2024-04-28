@@ -3,19 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "gh-pages": "^3.2.0",
-    "react-scripts": "^4.0.3",
-    "standard": "^16.0.3"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/plugin-transform-private-property-in-object": "^7.24.1",
+    "gh-pages": "^6.1.1",
+    "react-scripts": "^5.0.1",
+    "standard": "^17.1.0"
   },
   "dependencies": {
-    "@splidejs/react-splide": "^0.4.4",
+    "@splidejs/react-splide": "^0.7.12",
     "moment": "^2.29.1",
-    "node-sass": "^6.0.0",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
+    "node-sass": "^9.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
     "react-parallax": "^3.3.0",
-    "react-router-dom": "5.2.0"
+    "react-router-dom": "6.23.0"
   },
   "scripts": {
     "build": "react-scripts build",

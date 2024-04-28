@@ -1,22 +1,22 @@
 import React, { useEffect, useState } from 'react'
-import { Route, Switch, HashRouter } from 'react-router-dom'
+import { HashRouter, Route, Routes } from 'react-router-dom'
 
+import Helmet from 'react-helmet'
+import { Parallax } from 'react-parallax'
 import Accueil from './Components/Accueil.js'
 import Contact from './Components/Contact.js'
 import Festival from './Components/Festival.js'
-import Infos from './Components/Infos.js'
-import Samedi from './Components/Samedi.js'
-import Vendredi from './Components/Vendredi.js'
 import Header from './Components/Header.js'
-import Helmet from 'react-helmet'
+import Infos from './Components/Infos.js'
 import NoMatchRoute from './Components/NoMatchRoute.js'
-import { Parallax } from 'react-parallax'
-import image from './img/bdla.png'
+import Samedi from './Components/Samedi.js'
 import SideMenu from './Components/SideMenu.js'
+import Vendredi from './Components/Vendredi.js'
+import image from './img/bdla.png'
 
 import useWindowDimensions from 'useWindowDimensions'
-import Remerciements from './Components/Remerciements.js'
 import Partenaires from './Components/Partenaires.js'
+import Remerciements from './Components/Remerciements.js'
 
 const App = () => {
   const [hideSideMenu, setHideSideMenu] = useState(true)
@@ -41,17 +41,17 @@ const App = () => {
           close={() => setHideSideMenu(true)}
         ></SideMenu>
         <div className="content">
-          <Switch>
-            <Route exact path="/" component={Accueil} />
-            <Route path="/contact" component={Contact} />
-            <Route path="/festival" component={Festival} />
-            <Route path="/infos" component={Infos} />
-            <Route path="/samedi" component={Samedi} />
-            <Route path="/vendredi" component={Vendredi} />
-            <Route path="/remerciements" component={Remerciements} />
-            <Route path="/partenaires" component={Partenaires} />
-            <Route component={NoMatchRoute} />
-          </Switch>
+          <Routes>
+            <Route exact path="/" element={<Accueil />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/festival" element={<Festival />} />
+            <Route path="/infos" element={<Infos />} />
+            <Route path="/samedi" element={<Samedi />} />
+            <Route path="/vendredi" element={<Vendredi />} />
+            <Route path="/remerciements" element={<Remerciements />} />
+            <Route path="/partenaires" element={<Partenaires />} />
+            <Route element={<NoMatchRoute />} />
+          </Routes>
         </div>
       </Parallax>
     </HashRouter>
