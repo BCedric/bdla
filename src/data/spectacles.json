@@ -1,31 +1,34 @@
 [
   {
     "titre": "Les enfants de l'école élémentaire de Biard",
-    "description": "présentent un travail artistique mené par Paul Paitel et Eric Proud",
+    "description": "présentent un travail artistique mené par Isabelle Bouhet (Cie de la Trace)",
     "heure": "14h"
   },
   {
-    "titre": "Atelier danse",
-    "description": "L'association de Dans de Biard présente des extraits de leurs nouvelles chorégraphies 2023, en hip-hop et contemporain",
-    "heure": "14h45"
+    "titre": "Pani petite fille du Groenland - Cie de la Trace - Isabelle BOUHET et Christian COMPAGNON",
+    "description": "Aidée par les animaux dont elle comprend le langage, une petite inuit va devoir sauver son village de la famine. En avant Pani, quel voyage, quelle aventure!",
+    "heure": "14h45",
+    "image": "./img/spectacles/PANI.jpg"
   },
   {
-    "titre": "Le défi pirate",
-    "description": "Spectacle de rue circassien par L’Intrépide et Cie. Après une longue épopée à travers les mers et les océans, Lady Trafalgar et son fidèle acolyte, Long John Taverne viennent jeter l'ancre à Biard! Rejoignez leur équipage pour une folle aventure !",
-    "image": "./img/spectacles/pirate.JPG",
-    "heure": "15h30"
+    "titre": "Atelier danses de Biard",
+    "description": "présentera lors du festival : Nos \"B Boys B Girls\", le temps d'une breaking danse suivi de nos danseuses contemporaines. Elles vous présenteront un ballet de solos, duos et trios pour enchanter petits et grands",
+    "heure": "15h45"
   },
   {
-    "titre": "La fanfare en plastic - Les habitants du doute",
-    "description": "La fanfare en plastic est toujours là. Ses nombreux musicien-nes et chanteur-euses ont toujours l’envie d’être ensemble et d’y croire. Un univers festif, des chansons, du théâtre, de la poésie autour d’un repertoire varié qui donne à réfléchir. En 1 heure, entre doutes et certitudes, les chansons de Moustaki, Mano Solo, Anne Sylvestre, Ridan, France Gall, Debout sur le zinc…..vous donneront rires, émotions, révoltes, et plus que jamais l’envie d’émancipation et de liberté.",
-    "heure": "18h"
+    "titre": "Taamaba le grand voyage - Toma Sidibé",
+    "description": "TAAMABA, c’est le grand voyage de Toma Sidibé de sa Côte d’Ivoire natale au lieu du spectacle qui l’accueille. Empreint de sa passion pour l’Afrique, c’est entre chansons, conte, danse et comédie que Toma nous offre une ode à la diversité culturelle. Un spectacle interactif et explosif, plusieurs fois récompensé! Accompagné dans cette aventure de son Djembé Kuruku-Karaka, de Péroquette son oiseau- sampleur et de la virevoltante Maracas de Caracas, Toma traversera l’Afrique Noire et le Maghreb avant de rejoindre les enfants et de faire la fête avec eux.",
+    "heure": "16h30",
+    "image": "./img/spectacles/taamaba4.jpg"
   },
   {
-    "titre": "Les fanfaronnades",
-    "description": "de la Fanfare en Plastic animeront l'après-midi"
+    "titre": "La fanfare de l'école de musique Symphonie",
+    "description": "Créée en 2024, La fanfare de l'école de musique Symphonie defend la pratique musicale de groupe intergénérationnelle en s'appuyant sur un répertoire varié. Elle viendraprésenter le fruit du travail effectué lors de cette première année d'existence.",
+    "heure": "17h45"
   },
   {
-    "titre": "Lutherie Selektif",
-    "description": "Dispositif de scupltures sonores faites d'objets récupérés ou détournés. Le public (adultes et enfants) est convié à explorer et jouer"
+    "titre": "Xavier Houmeau - Magicien",
+    "description": "Toujours prêt à mettre son expérience en œuvre pour égailler son public. Il est d'humeur décontractée et authentique. Il propose une magie participative et vectrice de bonne humeur. Il ne manquera pas de vous partager son art sous vos yeux pour mystifier ce moment passé ensemble.",
+    "image": "./img/spectacles/Xavier_Houmeau.jpg"
   }
 ]

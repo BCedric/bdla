@@ -25,7 +25,7 @@ export default function Samedi() {
                 <li>Le studio photo</li>
                 <li>Atelier maquillage</li>
                 <li>Jeux en bois et jeux coopératifs</li>
-                <li>Massage</li>
+                <li>Exposition</li>
               </ul>
             </div>
           </div>

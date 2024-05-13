@@ -1,48 +1,46 @@
 {
   "vendredi": [
     {
-      "nom": "Yellow Bounce",
-      "site": "https://www.yellowbounce.fr/dates",
-      "facebook": "https://www.facebook.com/YellowBounce/",
-      "description": "Yellow Bounce proposera une musique placée sous le signe du jazz New Orleans. Un répertoire essentiellement basé sur les morceaux composés ou joués par Sidney Bechet et que les musiciens, pour l'occasion, joueront en sextet. Une formule fanfare acoustique et semi déambulatoire, Yellow Bounce promet de ravir le public de Biard dans les Airs.",
-      "image": "Yellow Bounce.jpg"
+      "nom": "The Streetalites",
+      "facebook": "https://www.facebook.com/steadystreetband/",
+      "description": "C'est toute l'énergie de la musique jamaïcaine des années 60/70 en fanfare ! Ces cinq musiciens vous embarquent dans un véritable voyage festif et chaleureux : Ska Roots, Jazz Tropical, Rock Steady, Reggae... Dans la rue, chez vous, sur scène et partout où la musique se partage ! C'est sûr, ça va guincher !!!",
+      "image": "streetlite.jpg"
     },
     {
-      "nom": "Ticket to Swing",
-      "site": "https://tickettoswing.wixsite.com/tickettoswing",
-      "facebook": "https://www.facebook.com/ticket.to.swing/?locale=fr_FR",
-      "description": "Le trio Ticket to Swing s'entoure de six musiciens de haut vol pour former \"The Big Ticket To Swing\" ! 9 musiciens sur scène qui jouent un swing décoiffant allant de Duke Ellington à Louis Prima en passant par Django Reinhardt, le tout avec des arrangements originaux et un son résolument actuel. Le Big Ticket To Swing perpétue la tradition des grands orchestres, il mêle le chant, les cordes, les cuivres et une puissante section rythmique pour réinventer une musique d'hier avec un son d'aujourd'hui.",
-      "image": "Affiche ticket Big Ticket to Swing.jpg"
-    },{
-      "nom": "Les fils de Teuhpu",
-      "facebook": "https://www.facebook.com/lesfilsdeteuhpu/?locale=fr_FR",
-      "site": "https://lesfilsdeteuhpu.com/",
-      "description": "Un nom qui jette aux yeux une poudre de perlimpinpin, une boîte à diable qui fait fuir les pisse-vinaigre et autres méfiants méchants jamais contents. Ne pas se fier au nom, donc.  Sans trop se prendre au sérieux, trompette, trombone, sax baryton, banjo, batterie, et pour la basse, une poubelle ou un soubassophone (cousin de l'hélicon), ou une pelle électrique, forment la \"moulinette\" Teuhpu d'où sortent des instrumentations fraîches et ouvertes, des chansons simples, ironiques ou absurdes sur un ton volontairement léger. Ils jouent comme des enfants, avec fougue et sincérité. C'est précisément la façon de mélanger qui fait le style Teuhpu.",
-      "image": "teuhpu .jpg"
+      "nom": "Madame Oscar",
+      "facebook": "https://www.facebook.com/mmeoscar49/?locale=fr_FR",
+      "description": "Ex RAMSES et SANTA MACAIRO ORKESTAR, les 7 musiciens ont l'habitude de la scène et des voyages en camion... Madame Oscar s'enivre de rires, d'energie positive et d'amour pour distiller des effluves sonores aux mélodies poético-Rock",
+      "image": "madame_oscar.jpg"
+    },
+    {
+      "nom": "Que Tengo",
+      "facebook": "https://www.facebook.com/quetengo/?locale=fr_FR",
+      "site": "https://quetengo.com/",
+      "description": "Des quatre coins du monde, le quatuor montpelliérain s’est inspiré. Entre rumba, cumbia, et rythmes afro-caribéens, Que Tengo nous offre le combo parfait : simple à danser, riche à penser ! Mené par la chanteuse hispano-marocaine Ámbar, le groupe délivre un cocktail survitaminé transpirant la joie et la danse, à la croisée des rythmes et des pays. Il nous offre aujourd’hui une musique aux textes profonds rythmée par la batterie de Damien, le clavier de Florian et la guitare du second Damien. Trois musiciens et une chanteuse lead pour une explosion de couleurs. Avec près de 300 concerts dont des tournées en Colombie et en Égypte, Que Tengo a puisé dans le voyage, l’émotion et l’inspiration de leur nouvel album « Vidas« . En chemin vers un monde meilleur, le quatuor dénonce, s’engage, observe et constate. Immigration, écologie, condition des femmes et révolution numérique font partie de leurs thèmes de prédilection, le tout en n’arrêtant jamais de nous faire danser !",
+      "image": "que-tengo.jpg"
     }
   ],
   "samedi": [
     {
-      "nom": "Le Cri du Chapeau",
-      "site": "https://www.chapdelune.fr/spectacles/le-nouveau-cri-musique-de-rue/",
-      "facebook": "https://www.facebook.com/chap.delune",
-      "description": "C'est un univers \"freaks\", une invitation à la balade, sorte de road movie, une cérémonie poétique et souriante. Scénario déjanté-chansons-poèmes-goût pour la dérision-zoom sur une rencontre-invitation à la danse-musiques traditionnelles et compositions originales.",
-      "image": "cri_du_chapeur.JPG"
+      "nom": "La fanfare Saugrenue",
+      "site": "http://www.lasaugrenue.fr",
+      "facebook": "https://www.facebook.com/lafanfaresaugrenue",
+      "description": "Ces 7 musiciennes et musiciens rompus à la musique de rue mettent leurs énergies, talents et racines musicales éclectiques au service de compositions originales et de reprises rock’n'pop irrésistibles. Depuis 2012, La Fanfare Saugrenue sillonne la France et le monde et fait danser les foules grâce à leur groove inimitable !",
+      "image": "saugrenue.png"
     },
     {
-      "nom": "Abal",
-      "facebook": "https://www.facebook.com/people/ABAL/100076440794611/?paipv=0&eav=AfYbiSXx8vj2kyi0XlNig5Rq9UG8QtXWvlw-Z_2Zq1N0QQZjKuKrMX9r4riMLx978zw&_rdr",
-      "site": "https://www.cie-artifis.fr/abal?fbclid=IwAR07j-mX5LSa2P6X860RvyjwdIxJ8G5XZ7VM0ET3nJh2_SassMq65gGk-u4",
-      "description": "« Des voix, des percussions et des chants populaires occitans, c’est Abal ! Avec Poitiers comme point de rencontre et la langue occitane comme terrain de jeu vocal, le groupe nous plonge dans un univers sonore où se mêlent poésies et polyphonies, fantaisies et polyrythmies pour créer un vacarme enchanté qui charme l’esprit et les cœurs. Sur des poèmes traditionnels occitans et des textes français originaux, les percussions apportent au chant une pulsation et impriment les rythmes de la transe. Abal frémit, vibre, retentit et invite à la rencontre et au partage !",
-      "image": "abal.jpg"
+      "nom": "Visious Steel Fuel Band",
+      "facebook": "https://www.facebook.com/vicioussteel/",
+      "site": "http://www.virguleprod.com/vicious-steel/",
+      "description": "MAGUY ( ex VICIOUS STEEL) , avec son odeur de feu de camp goût kérosène, cultive son post- downhome blues en duo, trio, solo, peu importe... La musique est au carrefour de la chanson, du blues ancien et du rock n’roll. Sur scène, MAGUY dégage une énergie folle, dans une atmosphère saturée et endiablée. Les blue notes suent, la voix est presque possédée, accompagnée toujours d’une pointe d’humour. Après des concerts à travers toute la France et quelques gigs à Memphis et dans le Mississippi, MAGUY propose une version « FUEL band » avec basse ,violon , trompette et trombone en sus. PRIX COGNAC PASSIONS en 2022.",
+      "image": "VICIOUSSTEEL.jpg"
     },
     {
-      "nom": "DUENDE",
-      "facebook": "https://www.facebook.com/duende.fr/",
-      "site": "http://www.duendemusica.fr/",
-      "description": "LE SEPTET BORDELAIS À L’ADN PLUS QU’HÉTÉROGÈNE - LEURS INFLUENCES SONT ROCK, JAZZ, AFRO, OU REGGAE - SE VEUT FIDÈLE AUX INGRÉDIENTS INCONTOURNABLES DE LA SALSA (TRES CUBAIN, MONTUNO ET TABLAOS, SECTION CUIVRÉE ) TOUT EN ÉTANCHANT SA SOIF DE LIBERTÉ (ET LA VÔTRE). INFLUENCÉ PAR LE ROCK ALTERNATIF SUD-AMÉRICAIN DES FABULOSOS CADILLACS MAIS AUSSI PAR RAUL PAZ OU ENCORE MACACO, DUENDE RAPPELLE QUE LA MUSIQUE, VIVANTE ET LIBRE, EST CE QU’IL NOUS RESTE QUAND TOUT FOUT LE CAMP. ET QU’UNE DANSE ENDIABLÉE VIENT TOUJOURS À BOUT DU SPLEEN LE PLUS TENACE.",
-      "image": "duende.jpg"
-    }    
-    
+      "nom": "Hop Hop Hop Crew",
+      "facebook": "https://www.facebook.com/hophophop.crew",
+      "site": "https://www.hophophopcrew.fr/",
+      "description": "Ne vous attendez pas à trouver, avec Hop Hop Hop Crew, de la musique balkanique traditionnelle : ces musiciens ont résolument pris le parti de jouer cette musique à leur sauce, avec toutes les influences des musiques actuelles, n’en déplaise aux puristes. À côté de ces reprises, le groupe a également initié une démarche de composition, afin d’affirmer une identité propre. Des voix énergiques, un accordéon sensuel, une clarinette langoureuse, des saxophones suaves et brillants, soutenus par une guitare basse et une batterie survoltée : les artistes ont la réputation d’enchanter leur public à chacun de leurs concerts, et n’attendent que vous pour continuer l’aventure !",
+      "image": "HHHC.jpg"
+    }
   ]
 }

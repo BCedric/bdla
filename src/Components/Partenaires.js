@@ -7,23 +7,14 @@ function importAll(r) {
 const images = importAll(
   require.context('../img/logos-partenaires', false, /\.(png|jpe?g|svg|webp)$/)
 )
-// const images = requuire.context(
-//   '../img/logos-partenaires',
-//   false,
-//   /\.(png|jpe?g|svg)$/
-// )
-
 const Partenaires = () => {
   return (
     <div>
       <h1>Partenaires</h1>
       <div className="partenaires">
         {images.map((img) => (
-          <img src={img.default} />
+          <img src={img} />
         ))}
-        <div className="partenaire-text">
-          <span>Pascale Roy-Dupuis</span>
-        </div>
       </div>
     </div>
   )

@@ -1,7 +1,5 @@
-import Helmet from 'react-helmet'
 import React from 'react'
-
-import repasData from '../data/repas.json'
+import Helmet from 'react-helmet'
 
 import plan1 from './../img/plan1.png'
 import PlanSite from './../img/PlanSite.png'
@@ -21,15 +19,17 @@ export default function Infos() {
       <p>Le festival accepte les Cartes Bancaires</p>
       <h2>Manger et boire</h2>
       <p>
-        Le "bar à Noj" et le bar à Vin sont ouverts pendant tout le
-        festival.
+        Le "bar à Noj" et le bar à Vin sont ouverts pendant tout le festival.
       </p>
       <p>
         Vous y trouverez de quoi manger et boire, pour les petites et grandes
         faims
       </p>
-      <p>Pendant tout le festival : salades, plat, grillades, frites, crêpes</p>
-      <p>CB acceptée</p>
+      <p>
+        Pendant tout le festival : salades, plat, grillades, frites, crêpes,
+        chichis
+      </p>
+      <p>Le festival accepte les Cartes Bancaires</p>
       <p>Distributeur : Crédit agricole Quartier Montmid</p>
       <h2>Venir au festival</h2>
       <p>Le festival a lieu devant la Mairie de Biard.</p>
