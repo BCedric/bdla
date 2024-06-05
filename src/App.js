@@ -17,6 +17,7 @@ import image from './img/bdla.png'
 import useWindowDimensions from 'useWindowDimensions'
 import Partenaires from './Components/Partenaires.js'
 import Remerciements from './Components/Remerciements.js'
+import GiletVibrant from './Components/GiletVibrant.js'
 
 const App = () => {
   const [hideSideMenu, setHideSideMenu] = useState(true)
@@ -50,6 +51,7 @@ const App = () => {
             <Route path="/vendredi" element={<Vendredi />} />
             <Route path="/remerciements" element={<Remerciements />} />
             <Route path="/partenaires" element={<Partenaires />} />
+            <Route path="/gilets-vibrants" element={<GiletVibrant />} />
             <Route element={<NoMatchRoute />} />
           </Routes>
         </div>

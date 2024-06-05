@@ -1,14 +1,7 @@
 import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
+import { routes } from './routes'
 
-const routes = [
-  { label: 'Accueil', route: '/' },
-  { label: 'Festival', route: '/festival' },
-  { label: 'Vendredi', route: '/vendredi' },
-  { label: 'Samedi', route: '/samedi' },
-  { label: 'Infos', route: '/infos' },
-  { label: 'Contact', route: '/contact' }
-]
 
 const SideMenu = ({ hidden, close }) => {
   const outsideListener = (event) => {

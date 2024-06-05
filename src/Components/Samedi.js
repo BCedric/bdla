@@ -29,11 +29,6 @@ export default function Samedi() {
               </ul>
             </div>
           </div>
-          <h2>A partir de 14h</h2>
-          <p>
-            La fanfare en plastic animera l’après-midi du samedi avec ses
-            “Fanfaronnades”.
-          </p>
           <div className="prog-spectacles">
             {spectacles.map((spectacle, index) => (
               <Spectacle
