@@ -14,7 +14,7 @@ export default function Samedi() {
     <div>
       <Helmet title="Samedi" />
 
-      <h1>Programmation du Samedi 24 Juin</h1>
+      <h1>Programmation du Samedi 29 Juin</h1>
 
       <InProgressChecker>
         <div>
