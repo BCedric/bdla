@@ -4,8 +4,8 @@ const Remerciements = () => {
   return (
     <div>
       <p>
-        Merci à : Mick, Aurélien, Antoine, Cédric, Rodolphe, Stu ,Téo, Adèle, La
-        Blaiserie, la commune de Biard, ses employés des services techniques,
+        Merci à : Mick, Antoine, Cédric, Rodolphe, Stu, Ahmed, Chimène, Adèle,
+        La Blaiserie, la commune de Biard, ses employés des services techniques,
         Grand Poitiers, Le conseil départemental de la Vienne.
       </p>
       <p>Merci à tous les bénévoles.</p>

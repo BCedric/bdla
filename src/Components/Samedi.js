@@ -25,7 +25,8 @@ export default function Samedi() {
                 <li>Le studio photo</li>
                 <li>Atelier maquillage</li>
                 <li>Jeux en bois et jeux coopératifs</li>
-                <li>Exposition</li>
+                <li>Exposition du club Patchwork de Biard</li>
+                <li>Ateliers activités artistiques</li>
               </ul>
             </div>
           </div>

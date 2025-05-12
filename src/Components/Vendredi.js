@@ -12,6 +12,7 @@ export default class Vendredi extends React.Component {
       <div>
         <Helmet title="Vendredi" />
         <h1 className="titre">Programmation du Vendredi 28 Juin</h1>
+        <h2>A partir de 19h</h2>
 
         <InProgressChecker>
           <p>

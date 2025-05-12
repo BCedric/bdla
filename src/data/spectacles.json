@@ -1,34 +1,33 @@
 [
   {
-    "titre": "Les enfants de l'école élémentaire de Biard",
-    "description": "présentent un travail artistique mené par Isabelle Bouhet (Cie de la Trace)",
+    "description": "Les enfants de l'école élémentaire de Biard présentent un travail artistique mené par Antoine Paitel et .… ( SOS Doudou)",
     "heure": "14h"
   },
   {
-    "titre": "Pani petite fille du Groenland - Cie de la Trace - Isabelle BOUHET et Christian COMPAGNON",
-    "description": "Aidée par les animaux dont elle comprend le langage, une petite inuit va devoir sauver son village de la famine. En avant Pani, quel voyage, quelle aventure!",
-    "heure": "14h45",
-    "image": "./img/spectacles/PANI.jpg"
+    "titre": "Association de danse de Biard",
+    "description": "L'association de danse de Biard \"Atelier Danses\" est heureuse de vous présenter quelques extraits chorégraphiques de son dernier spectacle \"Résonance au cœur de nos souvenirs\" joué le 23 et 24 mai au centre socio culturel de la Blaiserie",
+    "heure": "14h45"
   },
   {
-    "titre": "Atelier danses de Biard",
-    "description": "présentera lors du festival : Nos \"B Boys B Girls\", le temps d'une breaking danse suivi de nos danseuses contemporaines. Elles vous présenteront un ballet de solos, duos et trios pour enchanter petits et grands",
-    "heure": "15h45"
+    "titre": "Cie Artifis - SOS Doudou",
+    "description": "Des enfants, des parents, des gnomes, la petite souris et le Pyjamonstre peuplent cette quête au pays de l’enfance, entre attachement et autonomie, révolte et vulnérabilité, magie et quotidien, petits coups de mous et grandes explosions de joie.",
+    "heure": "15h30",
+    "image": "./img/spectacles/7-min.png"
   },
   {
-    "titre": "Taamaba le grand voyage - Toma Sidibé",
-    "description": "TAAMABA, c’est le grand voyage de Toma Sidibé de sa Côte d’Ivoire natale au lieu du spectacle qui l’accueille. Empreint de sa passion pour l’Afrique, c’est entre chansons, conte, danse et comédie que Toma nous offre une ode à la diversité culturelle. Un spectacle interactif et explosif, plusieurs fois récompensé! Accompagné dans cette aventure de son Djembé Kuruku-Karaka, de Péroquette son oiseau- sampleur et de la virevoltante Maracas de Caracas, Toma traversera l’Afrique Noire et le Maghreb avant de rejoindre les enfants et de faire la fête avec eux.",
-    "heure": "16h30",
-    "image": "./img/spectacles/taamaba4.jpg"
+    "titre": "Symphonie - La fanfare",
+    "description": "Vous l'avez appréciée en 2024... L'école de musique SYMPHONIE est heureuse de revenir cette année vous présenter ses derniers travaux en FANFARE intergénérationnelle !",
+    "heure": "16h30"
   },
   {
-    "titre": "La fanfare de l'école de musique Symphonie",
-    "description": "Créée en 2024, La fanfare de l'école de musique Symphonie defend la pratique musicale de groupe intergénérationnelle en s'appuyant sur un répertoire varié. Elle viendraprésenter le fruit du travail effectué lors de cette première année d'existence.",
-    "heure": "17h45"
+    "titre": "Oscar Fou – La grande Ourse",
+    "description": "Une grande Ourse, c’est un dessin d’étoiles, une casserole dans le ciel, une constellation qui nous invite à lever les yeux et à nous évader très très loin là-haut. Une grande Ourse, c’est aussi une maman animale, terrienne, ancrée et câline, protectrice et sauvage. La grande Ourse, le second spectacle d‘Oscar fou, s’adresse à tous les enfants qui se trouvent entre ces deux mondes, le très haut et le tout bas. Nos chansons sont comme eux, sensibles et joyeuses, profondes et mutines, rêveuses et traversées par des doutes existentiels. Oscar Fou, c'est 3 voix complices qui explorent le monde de l'enfance avec tendresse et malice. C'est joyeux, pétillant, coloré, et l'espièglerie se faufile entre les bulles de poésie.",
+    "heure": "17h",
+    "image": "./img/spectacles/oscar.jpeg"
   },
   {
-    "titre": "Xavier Houmeau - Magicien",
-    "description": "Toujours prêt à mettre son expérience en œuvre pour égailler son public. Il est d'humeur décontractée et authentique. Il propose une magie participative et vectrice de bonne humeur. Il ne manquera pas de vous partager son art sous vos yeux pour mystifier ce moment passé ensemble.",
-    "image": "./img/spectacles/Xavier_Houmeau.jpg"
+    "titre": "Symphonie - Le jazz",
+    "description": "Pour la première fois, l'Atelier Jazz de l' école de musique SYMPHONIE partagera le fruit de son travail de l'année!",
+    "heure": "18h15"
   }
 ]

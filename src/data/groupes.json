@@ -1,46 +1,51 @@
 {
   "vendredi": [
     {
-      "nom": "The Streetalites",
-      "facebook": "https://www.facebook.com/steadystreetband/",
-      "description": "C'est toute l'énergie de la musique jamaïcaine des années 60/70 en fanfare ! Ces cinq musiciens vous embarquent dans un véritable voyage festif et chaleureux : Ska Roots, Jazz Tropical, Rock Steady, Reggae... Dans la rue, chez vous, sur scène et partout où la musique se partage ! C'est sûr, ça va guincher !!!",
-      "image": "streetlite.jpg"
+      "nom": " Ligugé Social Club",
+      "description": "Le Ligugé Social Club est composé d'une quinzaine de musiciens, jouant d'instruments extraordinaires tels que soubassophone, saxophones, trompettes, banjo et percus en folie ! Avec ces instruments, ils jouent de la musique : Europe de l'est, Reggae, Hip-hop, Cumbia, tout y passe !! Mais je laisse ceux qui les connaissent vraiment les présenter : \"Probablement la meilleure fanfare de Ligugé\" Les habitants \"The most amazing fanfare!\" Miles Davis \"Je n'entends rien, mais je crois qu'ils sont bons...\" Beethoven \"AAARRRRGGGGHHHHHH !!!\" Chewbacca \"ça ne s'écoute pas que d'une oreille !\" Vincent Van Gogh",
+      "image": "visuel LSC (1).png"
     },
     {
-      "nom": "Madame Oscar",
-      "facebook": "https://www.facebook.com/mmeoscar49/?locale=fr_FR",
-      "description": "Ex RAMSES et SANTA MACAIRO ORKESTAR, les 7 musiciens ont l'habitude de la scène et des voyages en camion... Madame Oscar s'enivre de rires, d'energie positive et d'amour pour distiller des effluves sonores aux mélodies poético-Rock",
-      "image": "madame_oscar.jpg"
+      "nom": "Graines de sel",
+      "site": "http://www.grainesdesel.fr",
+      "description": "Attachés à la Gascogne et à ses sonorités, les graines de sel en ont le tempérament! Ils puisent leurs influences partout où les vibrations évoquent liberté et solidarité. Ils nous emportent à l’est, au sud, partout où le vent souffle à s’en forger le caractère! Les racines de cette fusion populaire plongent près du cœur, au plus proche de la terre et de ses battements… Histoire de Femmes, histoires d’Hommes, histoires de celles et ceux qui rêvent, qui aiment, qui se battent, qui vivent… Voici leur leitmotiv!",
+      "image": "GDS theatre-min.jpg"
     },
     {
-      "nom": "Que Tengo",
-      "facebook": "https://www.facebook.com/quetengo/?locale=fr_FR",
-      "site": "https://quetengo.com/",
-      "description": "Des quatre coins du monde, le quatuor montpelliérain s’est inspiré. Entre rumba, cumbia, et rythmes afro-caribéens, Que Tengo nous offre le combo parfait : simple à danser, riche à penser ! Mené par la chanteuse hispano-marocaine Ámbar, le groupe délivre un cocktail survitaminé transpirant la joie et la danse, à la croisée des rythmes et des pays. Il nous offre aujourd’hui une musique aux textes profonds rythmée par la batterie de Damien, le clavier de Florian et la guitare du second Damien. Trois musiciens et une chanteuse lead pour une explosion de couleurs. Avec près de 300 concerts dont des tournées en Colombie et en Égypte, Que Tengo a puisé dans le voyage, l’émotion et l’inspiration de leur nouvel album « Vidas« . En chemin vers un monde meilleur, le quatuor dénonce, s’engage, observe et constate. Immigration, écologie, condition des femmes et révolution numérique font partie de leurs thèmes de prédilection, le tout en n’arrêtant jamais de nous faire danser !",
-      "image": "que-tengo.jpg"
+      "nom": "Tha Dunciz",
+      "facebook": "https://www.facebook.com/funkthadunciz/?locale=fr_FR",
+      "description": "Il est question de groove, et pas n’importe lequel, celui qui provoquera le plus endiablé de vos déhanchements ! Difficile de dompter son plaisir... Ces activistes du Funk issus de la scène caennaise s'amusent et il est impossible de résister au groove contagieux de leur show scénique à l’énergie communicative. De quoi danser toute la nuit, avec un sentiment  d'extase ! Un show des Dunciz c’est un moment de fête pour rendre les gens heureux, une cour de récréation dans laquelle ils donnent le meilleur d’eux-mêmes ! Git down !",
+      "image": "DSCF8523-min.jpg"
     }
   ],
   "samedi": [
     {
-      "nom": "La fanfare Saugrenue",
-      "site": "http://www.lasaugrenue.fr",
-      "facebook": "https://www.facebook.com/lafanfaresaugrenue",
-      "description": "Ces 7 musiciennes et musiciens rompus à la musique de rue mettent leurs énergies, talents et racines musicales éclectiques au service de compositions originales et de reprises rock’n'pop irrésistibles. Depuis 2012, La Fanfare Saugrenue sillonne la France et le monde et fait danser les foules grâce à leur groove inimitable !",
-      "image": "saugrenue.png"
+      "nom": "Contreband",
+      "facebook": "http://www.facebook.com/fanfare.contreband",
+      "site": "http://www.fanfare-contreband.fr",
+      "description": "Contreband, big band hybride créé en 2001, occupe le pavé et la scène dans des créations et reprises de jazz, swing, mambo, reggae, ska, funk et ballades langoureuses... Un pied dans les brass-band et le coeur en fanfare, ce collectif réunit une quinzaine de copains pour créer l’insolite et vous faire guincher grâce à un melting-pot de styles et une énergie communic’active pour petits et grands.",
+      "image": "CTB 2016 2.jpg"
     },
     {
-      "nom": "Vicious Steel Fuel Band",
-      "facebook": "https://www.facebook.com/vicioussteel/",
-      "site": "http://www.virguleprod.com/vicious-steel/",
-      "description": "MAGUY ( ex VICIOUS STEEL) , avec son odeur de feu de camp goût kérosène, cultive son post- downhome blues en duo, trio, solo, peu importe... La musique est au carrefour de la chanson, du blues ancien et du rock n’roll. Sur scène, MAGUY dégage une énergie folle, dans une atmosphère saturée et endiablée. Les blue notes suent, la voix est presque possédée, accompagnée toujours d’une pointe d’humour. Après des concerts à travers toute la France et quelques gigs à Memphis et dans le Mississippi, MAGUY propose une version « FUEL band » avec basse ,violon , trompette et trombone en sus. PRIX COGNAC PASSIONS en 2022.",
-      "image": "VICIOUSSTEEL.jpg"
+      "nom": "Nod",
+      "facebook": "https://www.facebook.com/p/NOD-100065099914979/?locale=fr_FR",
+      "site": "https://l.facebook.com/l.php?u=http%3A%2F%2Fnodtomusic.bandcamp.com%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR6z01i5r78w_kE7DqWgPvPFkLpOGZh7V3lcx0rItS4ZhQLBv_tn76ybw8BhBg_aem_PSRHv8GqJbnhxHxY6yjTtA&h=AT3bCcth_EHG3_cXZO3d5LPgv2WRjWLusCOb0_CRhkW9mfp1hpQD8kXDGmEJrAfoXiapdG4HcN-_XvsbcALHPjD7m44ScM0821e8Blb9QBB-TMvYgOz6FTZE380",
+      "description": "NOD, de la transe et du dada !! Danse, danse, danse et transpire dans la transe... Tu aimes les rythmes d’Afrique centrale et des caraïbes, tu aimes le monde ? Alors viens te dandiner sans pudeur ! Ces cinq musiciens poitevins ont décidé de se retrouver autour de la danse. Leur trucs, coller et superposer différents motifs afin de créer une surtension électrique. Les rythmes fous et leurs sons puissamment inclassables qui forment l’ADN du groupe transportent le public dans une folle chaleur de la décadence nocturne. Ils portent une musique positivement énervée, chaude, qui transpire. Influencé de claves tropicales et populaires, ils vont progressivement transformer cette ambiance chaleureuse en soirée clubbing. NOD ça s’écoute debout, tard, longtemps…",
+      "image": "nod.jpg"
     },
     {
-      "nom": "Hop Hop Hop Crew",
-      "facebook": "https://www.facebook.com/hophophop.crew",
-      "site": "https://www.hophophopcrew.fr/",
-      "description": "Ne vous attendez pas à trouver, avec Hop Hop Hop Crew, de la musique balkanique traditionnelle : ces musiciens ont résolument pris le parti de jouer cette musique à leur sauce, avec toutes les influences des musiques actuelles, n’en déplaise aux puristes. À côté de ces reprises, le groupe a également initié une démarche de composition, afin d’affirmer une identité propre. Des voix énergiques, un accordéon sensuel, une clarinette langoureuse, des saxophones suaves et brillants, soutenus par une guitare basse et une batterie survoltée : les artistes ont la réputation d’enchanter leur public à chacun de leurs concerts, et n’attendent que vous pour continuer l’aventure !",
-      "image": "HHHC.jpg"
+      "nom": "Captain Sparks & Royal Company",
+      "facebook": "https://www.facebook.com/CaptainSparksRoyalCompany/",
+      "site": "https://www.captainsparks.fr",
+      "description": "Dans l’océan de la chanson française, « quelque part entre Brassens et NTM », naviguent le Captain Sparks et sa Royal Company ! Avec son second EP paru le 12 mai dernier et baptisé Objectif Lune, les rouennais de Captain Sparks & Royal Company poursuivent leurs incursions hip-hop cuivrées et festives à travers leurs chansons enflammées et engagées définitivement taillées pour la scène. Chansons originales chantées en français sur une bande-son alliant musiques urbaines et latines, Sparks raconte la vie avec punch, colère, nostalgie, tendresse et espoir. Sur des instrumentales teintées de hip-hop et largement mâtinées de notes latines, manouches ou électro, il mène sa troupe avec une énergie débordante et à la fin : on en redemande !! Avec sa très belle tournée des festivals de l’été 2023, le combo rouennais a pu faire découvrir ses chansons, son énergie et son univers à travers toute la France",
+      "image": "Captain Sparks & Royal Company.JPG"
+    },
+    {
+      "nom": "Najma Dream",
+      "facebook": "https://www.facebook.com/Najmadream/",
+      "site": "https://www.najmadream.com/",
+      "description": "Un live Électro au Féminin, où  s'entremêlent les voix aux chants entêtants, les mélodies du saxophone augmenté et les beats puissants des machines, orchestrés par la main de cette musicienne alchimiste. Cécile ouvre les portes de l'univers de NAJMA DREAM",
+      "image": "najma.jpg"
     }
   ]
 }
