@@ -18,7 +18,7 @@ export default function Samedi() {
 
       <InProgressChecker>
         <div>
-          <div className="animations-continues">
+          {/* <div className="animations-continues">
             <div>
               <p>Tout l'après-midi, les animations suivantes en continu:</p>
               <ul>
@@ -29,8 +29,12 @@ export default function Samedi() {
                 <li>Ateliers activités artistiques</li>
               </ul>
             </div>
-          </div>
-          <div className="prog-spectacles">
+          </div> */}
+          <p>
+            Programmation du samedi après-midi en cours d'élaboration. Vous
+            retrouverez toutefois des spectacles pour toute la famille !
+          </p>
+          {/* <div className="prog-spectacles">
             {spectacles.map((spectacle, index) => (
               <Spectacle
                 key={index}
@@ -40,7 +44,7 @@ export default function Samedi() {
                 image={spectacle.image}
               />
             ))}
-          </div>
+          </div> */}
           <h2>A partir de 19h</h2>
           <p>
             Entrées : participation libre (Chacun donne ce qu’il veut ou ce

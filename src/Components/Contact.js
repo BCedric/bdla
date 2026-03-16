@@ -8,7 +8,7 @@ export default function Contact() {
       <h1>Contact</h1>
       <ul className="contact-gille">
         <li>Gilles Morin : 06 83 33 83 71</li>
-        <li>bdlabiard@gmail.com</li>
+        <li>prog.bdla@gmail.com</li>
         <li>
           facebook:
           <a

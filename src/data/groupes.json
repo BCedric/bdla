@@ -1,51 +1,48 @@
 {
   "vendredi": [
     {
-      "nom": " Ligugé Social Club",
-      "description": "Le Ligugé Social Club est composé d'une quinzaine de musiciens, jouant d'instruments extraordinaires tels que soubassophone, saxophones, trompettes, banjo et percus en folie ! Avec ces instruments, ils jouent de la musique : Europe de l'est, Reggae, Hip-hop, Cumbia, tout y passe !! Mais je laisse ceux qui les connaissent vraiment les présenter : \"Probablement la meilleure fanfare de Ligugé\" Les habitants \"The most amazing fanfare!\" Miles Davis \"Je n'entends rien, mais je crois qu'ils sont bons...\" Beethoven \"AAARRRRGGGGHHHHHH !!!\" Chewbacca \"ça ne s'écoute pas que d'une oreille !\" Vincent Van Gogh",
-      "image": "visuel LSC (1).png"
+      "nom": "Fanfare Ouest",
+      "description": "ne louche de funk, une petite cuillerée d’improvisations, une pincée de jazz, et surtout une bonne rasade de bonne humeur sont les ingrédients principaux qui font le sel de la Fanfare Ouest, concoctée en 2003 dans les cuisines du Conservatoire d’Angoulême, à l’initiative de Maxime Legrand. Composée d’une vingtaine de musicien.nes de tous âges et de tous horizons, la Fanfare Ouest renouvelle régulièrement son répertoire de reprises  issues du funk, de la soul, du New Orleans, du folk ou encore de la pop. Elle propose des concerts sur bitume, verdure ou parquet : la rue est son lieu de prédilection, les vents s’accommodant davantage du plein air ! Fanfare mouvante à géométrie variable, elle vous emmène dans des déambulations infernales, entraînantes et gorgées d’énergie, pour vous faire danser jusqu’au bout de la nuit. Tuba, flûte, trompette, sax, trombone, clarinette… Avec ses vents en pagaille, la Fanfare Ouest vous décoiffe en bonne et due forme : gare à la tempête !",
+      "site": "https://fanfareouest.com/",
+      "facebook": "https://www.facebook.com/p/Fanfare-Ouest-100064059940485/?locale=fr_FR",
+      "image": "fanfareOuest.jpg"
     },
     {
-      "nom": "Graines de sel",
-      "site": "http://www.grainesdesel.fr",
-      "description": "Attachés à la Gascogne et à ses sonorités, les graines de sel en ont le tempérament! Ils puisent leurs influences partout où les vibrations évoquent liberté et solidarité. Ils nous emportent à l’est, au sud, partout où le vent souffle à s’en forger le caractère! Les racines de cette fusion populaire plongent près du cœur, au plus proche de la terre et de ses battements… Histoire de Femmes, histoires d’Hommes, histoires de celles et ceux qui rêvent, qui aiment, qui se battent, qui vivent… Voici leur leitmotiv!",
-      "image": "GDS theatre-min.jpg"
+      "nom": "La Corde Raide",
+      "site": "https://www.lacorderaideofficiel.com/",
+      "facebook": "https://www.facebook.com/Lacorderaideofficiel/",
+      "description": "Un répertoire de chansons françaises qui transpirent le soleil, deux voix généreuses qui se mêlent à l’harmonie, un accordéon chaloupé qui emprunte aux musiques du monde et tout particulièrement au séga et maloya, des guitares à l’énergie infinie, tantôt gitanes, tantôt rockeuses et électriques…",
+      "image": "La-Corde-Raide.jpg"
     },
     {
-      "nom": "Tha Dunciz",
-      "facebook": "https://www.facebook.com/funkthadunciz/?locale=fr_FR",
-      "description": "Il est question de groove, et pas n’importe lequel, celui qui provoquera le plus endiablé de vos déhanchements ! Difficile de dompter son plaisir... Ces activistes du Funk issus de la scène caennaise s'amusent et il est impossible de résister au groove contagieux de leur show scénique à l’énergie communicative. De quoi danser toute la nuit, avec un sentiment  d'extase ! Un show des Dunciz c’est un moment de fête pour rendre les gens heureux, une cour de récréation dans laquelle ils donnent le meilleur d’eux-mêmes ! Git down !",
-      "image": "DSCF8523-min.jpg"
+      "nom": "Radio Kaizman",
+      "site": "https://www.radiokaizman.com/wp/",
+      "facebook": "https://www.facebook.com/RadioKaizman/",
+      "description": "Radio Kaizman propose un cocktail détonnant et unique ! Influencé par le  bouillonnement musical de la Nouvelle Orléans et les beats du rap US, le groupe façonne son répertoire, mené par ses deux vocalistes. Riffs ultra chauds, batterie hypnotique et cuivres incisifs soutiennent un flow aiguisé parsemé de chants entêtants.",
+      "image": "RadioKaizman.jpg"
     }
   ],
   "samedi": [
     {
-      "nom": "Contreband",
-      "facebook": "http://www.facebook.com/fanfare.contreband",
-      "site": "http://www.fanfare-contreband.fr",
-      "description": "Contreband, big band hybride créé en 2001, occupe le pavé et la scène dans des créations et reprises de jazz, swing, mambo, reggae, ska, funk et ballades langoureuses... Un pied dans les brass-band et le coeur en fanfare, ce collectif réunit une quinzaine de copains pour créer l’insolite et vous faire guincher grâce à un melting-pot de styles et une énergie communic’active pour petits et grands.",
-      "image": "CTB 2016 2.jpg"
+      "nom": "Suck Da Head",
+      "site": "https://www.lasaugrenue.fr/suck-da-head.html",
+      "facebook": "https://www.facebook.com/suckdaheadbrassband/?locale=fr_FR",
+      "description": "Par amour pour le Second Line, musique originaire de la Nouvelle-Orléans, Suck da Head a bâti sa réputation en interprétant les classiques du répertoire de groupes tels que le Rebirth Brass Band, Young Blood Brass Band, Treme Brass Band. Suck da Head développe aujourd'hui une musique qui lui est propre, révélant des compositions à la fois exigeantes, généreuses, imprégnées d'émotions. Portée par la joie communicative de ses dix talentueux musiciens, leur musique à la fois puissante, cuivrée et enivrante vous entraîne irrésistiblement à la danse !",
+      "image": "Suck-da-Head.jpg"
     },
     {
-      "nom": "Nod",
-      "facebook": "https://www.facebook.com/p/NOD-100065099914979/?locale=fr_FR",
-      "site": "https://l.facebook.com/l.php?u=http%3A%2F%2Fnodtomusic.bandcamp.com%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR6z01i5r78w_kE7DqWgPvPFkLpOGZh7V3lcx0rItS4ZhQLBv_tn76ybw8BhBg_aem_PSRHv8GqJbnhxHxY6yjTtA&h=AT3bCcth_EHG3_cXZO3d5LPgv2WRjWLusCOb0_CRhkW9mfp1hpQD8kXDGmEJrAfoXiapdG4HcN-_XvsbcALHPjD7m44ScM0821e8Blb9QBB-TMvYgOz6FTZE380",
-      "description": "NOD, de la transe et du dada !! Danse, danse, danse et transpire dans la transe... Tu aimes les rythmes d’Afrique centrale et des caraïbes, tu aimes le monde ? Alors viens te dandiner sans pudeur ! Ces cinq musiciens poitevins ont décidé de se retrouver autour de la danse. Leur trucs, coller et superposer différents motifs afin de créer une surtension électrique. Les rythmes fous et leurs sons puissamment inclassables qui forment l’ADN du groupe transportent le public dans une folle chaleur de la décadence nocturne. Ils portent une musique positivement énervée, chaude, qui transpire. Influencé de claves tropicales et populaires, ils vont progressivement transformer cette ambiance chaleureuse en soirée clubbing. NOD ça s’écoute debout, tard, longtemps…",
-      "image": "nod.jpg"
+      "nom": "Petit Tonnerre",
+      "site": "https://www.salamah.fr/tour/project/petit-tonnerre/",
+      "facebook": "https://www.facebook.com/petittonnerremusique/?locale=fr_FR",
+      "description": "Entre musiques du monde et soubresauts électro, Petit Tonnerre chante haut et fort un trad moderne, festif et dansant. À travers un répertoire de compositions, le groupe convie groove méditerranéen, transe lancinante et envolées lyriques. Tout virevolte dans un répertoire aux échos des musiques populaires, enlevées et vagabondes. De quoi mettre du soleil sous la pluie…",
+      "image": "Petit Tonnerre.jpg"
     },
     {
-      "nom": "Captain Sparks & Royal Company",
-      "facebook": "https://www.facebook.com/CaptainSparksRoyalCompany/",
-      "site": "https://www.captainsparks.fr",
-      "description": "Dans l’océan de la chanson française, « quelque part entre Brassens et NTM », naviguent le Captain Sparks et sa Royal Company ! Avec son second EP paru le 12 mai dernier et baptisé Objectif Lune, les rouennais de Captain Sparks & Royal Company poursuivent leurs incursions hip-hop cuivrées et festives à travers leurs chansons enflammées et engagées définitivement taillées pour la scène. Chansons originales chantées en français sur une bande-son alliant musiques urbaines et latines, Sparks raconte la vie avec punch, colère, nostalgie, tendresse et espoir. Sur des instrumentales teintées de hip-hop et largement mâtinées de notes latines, manouches ou électro, il mène sa troupe avec une énergie débordante et à la fin : on en redemande !! Avec sa très belle tournée des festivals de l’été 2023, le combo rouennais a pu faire découvrir ses chansons, son énergie et son univers à travers toute la France",
-      "image": "Captain Sparks & Royal Company.JPG"
-    },
-    {
-      "nom": "Najma Dream",
-      "facebook": "https://www.facebook.com/Najmadream/",
-      "site": "https://www.najmadream.com/",
-      "description": "Un live Électro au Féminin, où  s'entremêlent les voix aux chants entêtants, les mélodies du saxophone augmenté et les beats puissants des machines, orchestrés par la main de cette musicienne alchimiste. Cécile ouvre les portes de l'univers de NAJMA DREAM",
-      "image": "najma.jpg"
+      "nom": "Cumbia Boom Box",
+      "facebook": "https://www.facebook.com/cumbiaboombox/?locale=fr_FR",
+      "site": "https://www.cumbiaboombox.com/",
+      "description": "Cinq musiciennes, une énergie explosive : Cumbia boom box mélange cumbia et beats électroniques pour un set ultra festif, ultra féminin et ultra dansant !! Entre percussions, instrus acoustiques, voix enﬂammées et machines, le groupe célèbre la fête, la sororité et une puissance scénique fédératrice. Préparez vous: impossible de rester immobile.",
+      "image": "Cumbia boom box.jpg"
     }
   ]
 }

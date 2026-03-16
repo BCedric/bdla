@@ -1,6 +1,7 @@
 import logoMalentendante from './../img/logo-malentendant.png'
 export const routes = [
   { label: 'Accueil', route: '/' },
+  { label: "Concours affiche 2027", route: '/concours-affiche' },
   { label: 'Festival', route: '/festival' },
   { label: 'Vendredi', route: '/vendredi' },
   { label: 'Samedi', route: '/samedi' },

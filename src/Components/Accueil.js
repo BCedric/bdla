@@ -10,7 +10,7 @@ import image4 from './../img/accueil5.jpg'
 
 import Carousel from 'Carousel'
 
-import affichebdla from './../img/affiche_BDLA-2025_WEB.jpg'
+import affichebdla from './../img/afficheBDLA2026.jpg'
 
 export default function Accueil() {
   return (

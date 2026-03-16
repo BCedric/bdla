@@ -18,6 +18,7 @@ import useWindowDimensions from 'useWindowDimensions'
 import Partenaires from './Components/Partenaires.js'
 import Remerciements from './Components/Remerciements.js'
 import GiletVibrant from './Components/GiletVibrant.js'
+import ConcoursAffiche from './ConcoursAffiche.js'
 
 const App = () => {
   const [hideSideMenu, setHideSideMenu] = useState(true)
@@ -45,6 +46,7 @@ const App = () => {
           <Routes>
             <Route exact path="/" element={<Accueil />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/concours-affiche" element={<ConcoursAffiche />} />
             <Route path="/festival" element={<Festival />} />
             <Route path="/infos" element={<Infos />} />
             <Route path="/samedi" element={<Samedi />} />
