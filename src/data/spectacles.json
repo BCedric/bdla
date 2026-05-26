@@ -1,33 +1,28 @@
 [
   {
-    "description": "Les enfants de l'école élémentaire de Biard présentent un travail artistique mené par Antoine Paitel et .… ( SOS Doudou)",
+    "description": "Les enfants de l'école élémentaire de Biard présentent un travail mené par les artistes du spectacle \"À peu près Carmen\"",
     "heure": "14h"
   },
   {
-    "titre": "Association de danse de Biard",
-    "description": "L'association de danse de Biard \"Atelier Danses\" est heureuse de vous présenter quelques extraits chorégraphiques de son dernier spectacle \"Résonance au cœur de nos souvenirs\" joué le 23 et 24 mai au centre socio culturel de la Blaiserie",
-    "heure": "14h45"
+    "titre": "À peu près Carmen",
+    "description": "Comique participatif. L'aventure rocambolesque d'une cheffe d'orchestre de renom et de ses musicien.e.s. À partir de 6 ans.",
+    "heure": "14h30 - 15h30",
+    "image": "./img/spectacles/new fly carmen p 1_page-0001.jpg"
   },
   {
-    "titre": "Cie Artifis - SOS Doudou",
-    "description": "Des enfants, des parents, des gnomes, la petite souris et le Pyjamonstre peuplent cette quête au pays de l’enfance, entre attachement et autonomie, révolte et vulnérabilité, magie et quotidien, petits coups de mous et grandes explosions de joie.",
-    "heure": "15h30",
-    "image": "./img/spectacles/7-min.png"
+    "titre": "Atelier Danses",
+    "description": "L'association de danse de Biard “Atelier Danses” est heureuse de vous présenter quelques extraits chorégraphiques de son dernier spectacle joué le 5 et 6 juin au centre socio culturel de la Blaiserie.",
+    "heure": "15h45 - 16h15"
   },
   {
-    "titre": "Symphonie - La fanfare",
-    "description": "Vous l'avez appréciée en 2024... L'école de musique SYMPHONIE est heureuse de revenir cette année vous présenter ses derniers travaux en FANFARE intergénérationnelle !",
-    "heure": "16h30"
+    "titre": "Clapotis",
+    "description": "Concert de la mer et fricassée de notes. Montez sur notre radeau Coquelicot et embarquez avec 3 mousses à la rencontre d'animaux marins et d'aventures salées. Violon, piano, guitare et crustacés, levons l'ancre jusqu'à demain et chantons l'océan !",
+    "heure": "16h30 - 17h20",
+    "image": "./img/spectacles/affiche clapotis haute résolution.jpg"
   },
   {
-    "titre": "Oscar Fou – La grande Ourse",
-    "description": "Une grande Ourse, c’est un dessin d’étoiles, une casserole dans le ciel, une constellation qui nous invite à lever les yeux et à nous évader très très loin là-haut. Une grande Ourse, c’est aussi une maman animale, terrienne, ancrée et câline, protectrice et sauvage. La grande Ourse, le second spectacle d‘Oscar fou, s’adresse à tous les enfants qui se trouvent entre ces deux mondes, le très haut et le tout bas. Nos chansons sont comme eux, sensibles et joyeuses, profondes et mutines, rêveuses et traversées par des doutes existentiels. Oscar Fou, c'est 3 voix complices qui explorent le monde de l'enfance avec tendresse et malice. C'est joyeux, pétillant, coloré, et l'espièglerie se faufile entre les bulles de poésie.",
-    "heure": "17h",
-    "image": "./img/spectacles/oscar.jpeg"
-  },
-  {
-    "titre": "Symphonie - Le jazz",
-    "description": "Pour la première fois, l'Atelier Jazz de l' école de musique SYMPHONIE partagera le fruit de son travail de l'année!",
-    "heure": "18h15"
+    "titre": "École de musique Symphonie",
+    "description": "Restitution des ateliers musiques actuelles.",
+    "heure": "17h30 - 18h"
   }
 ]

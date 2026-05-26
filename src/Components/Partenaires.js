@@ -11,7 +11,8 @@ const images = importAll(
 const partenairesTxt = [
   'La Caravelle',
   'Orthophoniste Fanny Travart',
-  'Docteur Roy-Dupuis'
+  'Docteur Roy-Dupuis',
+  'Garage Fiacek-Quintus'
 ]
 
 const Partenaires = () => {

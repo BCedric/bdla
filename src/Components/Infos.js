@@ -41,7 +41,7 @@ export default function Infos() {
       </div>
       <div>
         <p>
-          <b>Parkings :</b> Stade de foot, salle polyvalente, foyer Guillaume
+          <b>Parkings PMR :</b> Stade de foot, salle polyvalente, foyer Guillaume
           d'Aquitaine, rue des écoles, parking du gymnase.
         </p>
         <p>
